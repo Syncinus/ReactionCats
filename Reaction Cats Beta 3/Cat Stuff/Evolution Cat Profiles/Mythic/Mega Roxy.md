@@ -1,0 +1,53 @@
+Mega Roxy:
+
+Rarity=Mythic
+
+Vision=10
+
+HP=516
+
+Speed=10
+
+Stamina=7
+
+Attack=520
+
+Jump=2
+
+Defence=520
+
+Ability=Ultelian:
+
+When A Cat Is Hit
+
+By Roxy, They Take
+
+5 Damage Per Turn For 2 Turns
+
+Ability=Megacharged Attack:
+
+Roxy Has +25 Attack Against
+
+Cats, Because She Can Destroy Terrain
+
+Attack=Claws
+
+Melee
+
++11 Attack
+
+-10 Enemy Defense When
+
+Using Attack Against Enemy
+
+Attack=Bite
+
+Melee
+
++11 Attack
+
+-11 Enemy Defense When
+
+Using Attack Against Enemy
+
+1 Turn Recharge
