@@ -31,6 +31,7 @@ Mythic: 35
 Insane: 45
 Supreme: 100
 Extreme: 200
+
 Leveling Up
 ======================
 Now, You Might Be Wondering, How Do I Level Up?
