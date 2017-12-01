@@ -1,5 +1,5 @@
-Reaction Cats Rules:
-===========================================
+Materials
+======================
 Hello, Welcome, To Reaction Cats, Before I Can Explain The Rules, I Must 
 Tell You The Materials You Need To Play Reaction Cats:
 1 Hex Map
