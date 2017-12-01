@@ -1,0 +1,17 @@
+Move Mod:
+
+Type=Move
+
+Represent:White, White, White
+
+Cost=1
+
+Action=Passive
+
+Slots=1
+
+Effects:
+
+Allows You To Move.
+
+No Increase In Power.
