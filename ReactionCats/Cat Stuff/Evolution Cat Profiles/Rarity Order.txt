@@ -1,0 +1,11 @@
+Basic 
+Uncommon 
+Rare 
+Mega 
+Ultimate 
+Epic 
+Legendary 
+Mythic 
+Insane
+Supreme
+Extreme
