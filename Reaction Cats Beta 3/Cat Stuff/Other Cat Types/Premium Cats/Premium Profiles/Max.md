@@ -6,7 +6,7 @@ Type=Attack/CatBux
 
 Rarity=Advanced Premium 
 
-CatBux Cost=#7500
+CatBux Cost=#75000
 
 Vision=10
 
