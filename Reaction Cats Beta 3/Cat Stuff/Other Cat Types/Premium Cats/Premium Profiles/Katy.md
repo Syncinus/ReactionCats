@@ -6,7 +6,7 @@ League=Prime Forces
 
 Rarity=Advanced Premium
 
-CatBux Cost=#8000
+CatBux Cost=#80000
 
 Vision=10
 
