@@ -2,6 +2,8 @@ Speed Mod:
 
 Type=Speed
 
+Minimum Level=1
+
 Represent:White, White
 
 Cost=2
