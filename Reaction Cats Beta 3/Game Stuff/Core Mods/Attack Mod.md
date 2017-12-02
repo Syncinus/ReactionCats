@@ -2,6 +2,8 @@ Attack Mod:
 
 Type=Attack
 
+Minimum Level=0
+
 Cost=1
 
 Represent:Red
