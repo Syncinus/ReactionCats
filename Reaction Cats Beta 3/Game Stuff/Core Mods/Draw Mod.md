@@ -2,6 +2,9 @@ Draw Mod:
 
 Type=Draw
 
+
+Minimum Level=0
+
 Represent:White, Blue
 
 Cost=1
