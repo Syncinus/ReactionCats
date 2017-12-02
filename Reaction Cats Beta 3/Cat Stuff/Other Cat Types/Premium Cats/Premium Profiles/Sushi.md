@@ -6,7 +6,7 @@ Type=Crates/CatBux
 
 Rarity=Intermediate Premium 
 
-CatBux Cost=#7500
+CatBux Cost=#75000
 
 Vision=11
 
