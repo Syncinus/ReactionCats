@@ -2,6 +2,8 @@ Wither Mod:
 
 Type=Attack
 
+Minimum Level=2
+
 Cost=3
 
 Represent:Red, Red
