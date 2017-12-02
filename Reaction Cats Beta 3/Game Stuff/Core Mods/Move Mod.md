@@ -2,6 +2,8 @@ Move Mod:
 
 Type=Move
 
+Minimum Level=0
+
 Represent:White, White, White
 
 Cost=1
