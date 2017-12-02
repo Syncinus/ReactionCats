@@ -2,7 +2,7 @@ Swift Games Reaction Cats
 =============================
 By: Nick
 
-—Created And Developed By:Sync
+—Created And Developed By:SyncCheck
 
 —Version Designation:Beta 3.0
 
@@ -10,7 +10,7 @@ By: Nick
 
 —Easier Than Cat Wars
 
-—William Can’t Screw Because Of Copyright/Trademark :O
+—Soon It Will Be Out!
 
 —It’s MY Game
 
@@ -19,14 +19,9 @@ By: Nick
 —Theme Is NCS Lune
 
 
-© & ™ Swift Games 2017
-Everything Owned By “Sync” Nicolas Daniel Jackson
-Any Copying Or Declaring Material Is Copying Is A Lie,
-All Material Produced By Swift Games
-Any Ideas Of Trying To Takeover Game Or Get Rid Of
-It Is Futile.
+© & ™ Swift/Stormus Games 2017
 
 
-By:Sync
+By:SyncCheck
 
 --The Final Beta.
