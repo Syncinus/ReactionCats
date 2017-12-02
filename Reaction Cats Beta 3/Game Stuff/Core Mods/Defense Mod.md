@@ -2,6 +2,8 @@ Defense Mod:
 
 Type=Defense
 
+Minimum Level=0
+
 Cost=1
 
 Represent:Blue
