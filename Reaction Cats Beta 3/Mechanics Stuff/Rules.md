@@ -57,25 +57,14 @@ Charge Back In The Place It Came From When You’ve Used It.
 
 Now I Explain Attacks:
 ======================
-Attacks Are The Main Thing, Now, To Attack You Must
-Spend 1 Attack Core, Then, Select An Attack, If The Attack
-Is A Melee Attack, You Must Be Next To The Enemy’s Hex, If It
-Says Something Like “1M Range” That Would Mean That It Can
-Hit The Enemy From 1 Hex Away, After Doing That, If Your Attack Is
-In Range, You And The Enemy Roll A Dice, Then, Multiply The Result 
-By Half Your Speed Value, Then, Whoever Has A Higher Result Wins,
-If The Enemy Has A Higher Result, They Dodge, If You Have A Higher
-Result, Then You Hit, Add The Attacks Attack Buff To Your Attack Value
-And Reduce The Enemy’s Defense Value By What The Attack Says, Then,
-Roll A Dice To See How Much Damage Buff Your Attack Core Gives You, After
-That, Subtract Half Your Enemy’s Defense Rating From Your Attack Damage Before
-Subtracting The Final Result From The Enemy’s HP, Then, Reset The Enemy’s Defense
-And Your Attack To Their Original Ratings.
-If The Enemy Uses A Dodge Core, They Multiply The Dodge Result By Their Full
-Speed Value
-If The Enemy Uses A Defense Core, They Dodge With All Their Defense + The Roll They
-Rolled On The Core.
-Attacks Can’t Deal Less Than 1 Damage.
+Attacks Are A Big Aspect, When You Do An Attack Against An Enemy Cat,
+Roll Out This Process:
+Compare Speed Values, If The Enemy Has A Bigger Speed Value Then Roll-Off,
+Whoever Gets A Higher Result Wins, So If You Win The Roll Off, You Hit,
+If The Enemy Wins, They Dodge, Then, If You Hit, Select Your Attack. Then
+Modify Everything The Attack Says And Then, With The Modified Attack And
+Reduced Enemy Defense, Reduce The Enemys HP By The Modified Attack Value Minus
+The Modified Defense Value, Then Set All Stats Back To Normal.
 
 Defense:
 ======================
