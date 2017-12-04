@@ -260,6 +260,13 @@ Questions:
 If You Have Questions, Simply Ask Them In The Question
 Are Of The Games Website, I Will Respond To Them.
 
+Built In Actions
+======================
+There Are 2 Actions A Cat Can Always Do,
+The Cat Can Always Use An Active Action To Do And Attack,
+And Can Always Use A Passive Action To Move,
+The Cores Just Add Buffs To These Actions.
+
 Conclusion
 ======================
 Thats It. If This Didn’t Cover Everything, Then Tell Me
