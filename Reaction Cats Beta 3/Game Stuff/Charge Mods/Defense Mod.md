@@ -1,5 +1,7 @@
 Defense Charger:
 
+Slots=1
+
 Represent:Black
 
 Type=Defend
