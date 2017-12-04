@@ -34,7 +34,7 @@ And 1 Speed Instead Of 3.
 
 Ability=Crippling Blows:
 
-Cats Lose 5 HP Per Second For 2 Seconds
+Cats Lose 50 HP Every Turn For 2 Turns
 
 After Being Hit By Max.
 
@@ -48,7 +48,7 @@ Max Scares Enemy Cats.
 
 Ability=Explode:
 
-Every 10 Seconds Max Can Increase His Attack By +60 For
+Every 9 Turns Max Can Increase His Attack By +60 For
 
 1 Attack.
 
@@ -108,7 +108,7 @@ Melee:Mouth
 
 -10 Enemy Defense When Hit
 
-5S Cooldown
+5T Cooldown
 
 Rage Attack=Horrendous Claw
 
