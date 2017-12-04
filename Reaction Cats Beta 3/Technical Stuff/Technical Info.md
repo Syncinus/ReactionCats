@@ -1,4 +1,4 @@
-Swift Games Reaction Cats
+Sw1ft Games Reaction Cats
 =============================
 By: Nick
 
@@ -19,7 +19,7 @@ By: Nick
 —Theme Is NCS Lune
 
 
-© & ™ Swift/Stormus Games 2017
+© & ™ Sw1ft/Stormus Games 2017
 
 
 By:SyncCheck
