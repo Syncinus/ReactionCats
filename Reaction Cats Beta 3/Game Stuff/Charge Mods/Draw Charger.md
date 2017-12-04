@@ -1,5 +1,7 @@
 Draw Charger:
 
+Slots=1
+
 Represent:Purple
 
 Type=Draw
