@@ -1,5 +1,7 @@
 Attack Charger:
 
+Slots=1
+
 Represent:Orange
 
 Type=Attack
