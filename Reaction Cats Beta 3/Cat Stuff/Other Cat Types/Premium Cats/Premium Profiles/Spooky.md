@@ -30,9 +30,9 @@ Spooky Is Crazy
 
 Ability=Exceedingly Stinky:
 
-When 50cm Or Shorter Distance From Spooky, Suffer
+When 1M Or Shorter Distance From Spooky, Suffer
 
-20 Damage Per Second.
+35 Damage Per Turn.
 
 Ability=Derp:
 
@@ -52,7 +52,7 @@ Power Ability=Spook:
 
 Spooky Can Use This Ability Every
 
-10 Seconds, It Increases His Defense By 10
+10 Turns, It Increases His Defense By 10
 
 For The Rest Of The Round
 
@@ -88,7 +88,7 @@ Melee:Dual Claws
 
 -9 Enemy Defense When Hit
 
-3S Cooldown
+3T Cooldown
 
 Unique Ruleset=Spooky:
 
