@@ -14,6 +14,7 @@ Slots=1
 
 Effects:
 
-Allows You To Move.
+Allows You To Move, You Move 1 More Hex Then Normal.
 
-No Increase In Power.
+
+Every 2 Levels, Increase Hex Movement Buff By 1.
