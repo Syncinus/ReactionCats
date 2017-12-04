@@ -28,7 +28,9 @@ Unique Ruleset=Meowish
 
 Ability=Meow Meow Meow:
 
-Sushi Must Meow Once Every 2 Seconds.
+Sushi Can Use The "Meow Attack Without
+
+Spending An Action Every 2 Turns.
 
 Ability=Tiny:
 
@@ -38,7 +40,7 @@ Ability=Slashing Damage:
 
 When Hit By Sushi Take
 
-5 Damage Per Second For 2 Seconds.
+10 Damage Per Turn For 2 Turns.
 
 Ability=Nice:
 
@@ -55,6 +57,7 @@ When Leveling Up, Sushi May Gain 10 Speed Instead Of 5 And
 7 Attack Instead Of 5 But
 
 Will Gain 3 Defense Instead Of 5 And 3 HP Instead Of 5.
+
 Attack=Bite
 
 Melee:Mouth
@@ -95,7 +98,7 @@ Attack=Fury Meow:
 
 -20 Enemy Defense When Hit
 
-Freeze Enemy Cat For 5 Seconds
+Freeze Enemy Cat For 1 Turn
 
 Knockback
 
@@ -106,8 +109,6 @@ Attack=MeowMeow:
 +5 Attack
 
 -5 Enemy Defense When Hit
-
-Freeze Enemy Cat For 2 Seconds.
 
 Unique Ruleset=Meowish:
 
