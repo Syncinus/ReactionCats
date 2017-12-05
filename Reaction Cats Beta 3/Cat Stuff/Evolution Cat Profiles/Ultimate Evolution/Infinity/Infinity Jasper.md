@@ -1,6 +1,6 @@
-Hyper Jasper:
+Infinity Jasper:
 
-Rarity=Extreme
+Rarity=Infinity
 
 Vision=10
 
