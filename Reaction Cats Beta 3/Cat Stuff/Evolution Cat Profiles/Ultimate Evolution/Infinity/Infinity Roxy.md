@@ -4,17 +4,17 @@ Rarity=Infinity
 
 Vision=10
 
-HP=1216
+HP=2216
 
 Speed=10
 
 Stamina=7
 
-Attack=1220
+Attack=2220
 
 Jump=2
 
-Defence=1220
+Defence=2220
 
 Ability=Terrex:
 
