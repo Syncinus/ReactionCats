@@ -1,3 +1,3 @@
 # ReactionCats
 The Reaction Cats Board Game,
-Currently In Beta V3.
+Currently With Beta V3 Being Developed.
