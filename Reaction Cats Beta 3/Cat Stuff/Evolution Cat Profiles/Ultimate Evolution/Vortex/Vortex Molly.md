@@ -4,7 +4,7 @@ Rarity=Vortex
 
 Vision=10
 
-HP=2215
+HP=3215
 
 Stamina=6
 
@@ -12,9 +12,9 @@ Jump=2
 
 Speed=15
 
-Attack=2210
+Attack=3210
 
-Defence=2220
+Defence=3220
 
 Ability=Final Emperess:
 
