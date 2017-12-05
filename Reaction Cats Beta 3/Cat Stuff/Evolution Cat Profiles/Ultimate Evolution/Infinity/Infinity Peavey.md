@@ -30,7 +30,7 @@ However, This Ability Has
 
 A 3 Turn Recharge
 
-Ability=Great Wisdom:
+Infinity Ability=Great Wisdom:
 
 Every Match, Peavey Selects 
 
