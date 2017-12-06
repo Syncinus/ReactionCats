@@ -4,7 +4,7 @@ Rarity=Basic
 
 Vision=11
 
-HP=1060
+HP=13
 
 Stamina=6
 
