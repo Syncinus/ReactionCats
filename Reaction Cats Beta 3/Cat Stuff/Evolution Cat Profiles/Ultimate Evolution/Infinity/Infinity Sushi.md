@@ -1,6 +1,6 @@
 Infinity Sushi:
 
-Rarity=Extreme
+Rarity=Infinity
 
 Vision=11
 
