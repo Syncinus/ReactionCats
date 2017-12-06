@@ -4,7 +4,7 @@ Rarity=Supreme
 
 Vision=11
 
-HP=763
+HP=993
 
 Stamina=6
 
@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=694
+Attack=924
 
-Defence=694
+Defence=924
 
 Ability=Extra Buffed Cat:
 
