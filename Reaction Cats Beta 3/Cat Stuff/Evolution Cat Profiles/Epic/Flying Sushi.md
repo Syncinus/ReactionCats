@@ -38,17 +38,17 @@ Attack=Claws
 
 Melee
 
-+2 Attack
++10 Attack
 
--3 Enemy Defense
+-4 Enemy Defense
 
 Attack=Meow
 
 2M Range
 
-+3 Attack
++10 Attack
 
--1 Enemy Defense
+-3 Enemy Defense
 
 -Meow Meow-
 
