@@ -66,6 +66,21 @@ Modify Everything The Attack Says And Then, With The Modified Attack And
 Reduced Enemy Defense, Reduce The Enemys HP By The Modified Attack Value Minus
 The Modified Defense Value, Then Set All Stats Back To Normal.
 
+Skills And Checks:
+======================
+Skills Are Special What Your Cat Knows What To Do, From Balance
+To Making Things Explode, Their Is No Specific Skillset In Reaction Cats,
+You Have Different Skills On Your Cats, Each Cat Starts With No Skills,
+But You Can Train Them, Every Rank Of Skill You Go Up, You Get Better At
+Doing That Thing, Checks Are Basically What You Do If Your Trying To Preform
+A Specific Action, Each Check Has Its DL, This Is The Difficulty Level, When
+Preforming A Check, The DL Determines How Hard Is Is, To Preform A Check,
+Roll A D20, Then, Add Your Skill In That Kind Of Thing, If The Number Is
+Equal Or Higher Than The DL Of The Check, You Suceed, If It Is Lower, You Fail.
+To Gain More In A Skill, Your Cat Must Level Up. Every Level Your Cat Goes Up Allows It
+To Gain 1 Rank In A Certain Skill, The Max DL For Anything Is 30, And The Max Skill Level
+Is 10. This Adds To The RPG Aspect Of Reaction Cats.
+
 Defense:
 ======================
 Defense Can Defend You From Stuff, However, It Also Heals You,
