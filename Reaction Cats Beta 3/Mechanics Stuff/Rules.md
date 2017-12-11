@@ -287,3 +287,6 @@ Conclusion
 Thats It. If This Didn’t Cover Everything, Then Tell Me
 On The Website And What Confuses You, I Will Fix The
 Rules And (Probably) Add What You Needed To Have Added.
+I Have Noticed That In Reaction Cats, Their Are Many
+Times That You Can Cheat, Their Will Be Admins To Figure
+Out If Your Cheating Or Not. And With That. Go And Play.
