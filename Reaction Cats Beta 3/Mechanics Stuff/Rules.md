@@ -259,6 +259,14 @@ They Are Obtained Through CatBux, And They Have
 High Power On Them And Special Rules That Play
 Around Them, So Use Them If You Need To.
 
+Missions/Quests:
+======================
+Reaction Cats Is Based Around Missions And
+Quests, These Are Kind Of Like RPG Game Adventures,
+1 Person Runs The Game And Everyone Else Plays It.
+Note That You Are The Same Player With The Same Cats
+In Every Mission Or Quest.
+
 Hero Cats:
 ======================
 Once You Make A Extreme Cat Reach Level 200,
