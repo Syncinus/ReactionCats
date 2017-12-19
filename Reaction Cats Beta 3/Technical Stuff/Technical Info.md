@@ -1,8 +1,10 @@
-Swyft Games Reaction Cats
+Swift Games Reaction Cats
 =============================
 By: Nick
 
 —Created And Developed By:SyncCheck
+
+—Special Thanks To William
 
 —Version Designation:Beta 3.0
 
@@ -19,7 +21,7 @@ By: Nick
 —Theme Is NCS Lune
 
 
-© & ™ Swyft/Stormus Games 2017
+© & ™ Swift/Stormus Games 2017
 
 
 By:SyncCheck
