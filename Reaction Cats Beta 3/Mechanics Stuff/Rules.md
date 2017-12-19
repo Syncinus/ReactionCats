@@ -175,6 +175,44 @@ These Items Add An Ability To Your Cat, Your Cat Loses
 It After Evolution, However, These Are 1 Time Usage And
 Can’t Be Used Again.
 
+The Skillset:
+======================
+These Are The Skills :
+
+Balance
+
+Stealth
+
+Athletics
+
+Deception
+
+Charm
+
+Constructing
+
+Moving
+
+Destructing
+
+Perception
+
+Resilience
+
+Coordination
+
+Vigilance
+
+Coercion
+
+Technology
+
+Negotiation
+
+Survival
+
+You Can Also Make Custom Skills
+
 Leauges:
 ======================
 These Are Just To Say What Cat Type Players
