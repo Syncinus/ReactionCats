@@ -144,7 +144,17 @@ You Can Win Them From Tournaments.
 
 Vision:
 ======================
-Cats Have A Vision Stat, Currently, This Does Nothing.
+Vision Affects How Accurate Your Cat Is At Attacking,
+When You Do An Attack, Roll A D12 And Add Your Vision Stat
+To The Result. And Then Apply That Effect To The Final Result.
+Here Are The Dice Roll Effects:
+3: Deal 1 Quarter Damage
+4: Deal Half Damage
+5: Deal 3 Quarters Damage
+6-9: Deal Normal Damage
+10: Deal 1.5X Damage
+11-12: Deal 2X Damage
+13+: Deal 3X Damage
 
 Resurrect:
 ======================
@@ -321,12 +331,30 @@ Questions:
 If You Have Questions, Simply Ask Them In The Question
 Are Of The Games Website, I Will Respond To Them.
 
-Built In Actions
+Built In Actions:
 ======================
 There Are 2 Actions A Cat Can Always Do,
 The Cat Can Always Use An Active Action To Do And Attack,
 And Can Always Use A Passive Action To Move,
 The Cores Just Add Buffs To These Actions.
+
+Terrain Types:
+======================
+There Are Multiple Kinds Of Terrain A Cat Cat Travel Through,
+Each One Has Specific Modifiers, Here, I Will Show You Each Terrain
+Type And The Modifiers That It Applys:
+Really Rough Terrain: Cat Moves At 1 Quarter Speeds Through This Type
+Rough Terrain: Cat Moves At 1 Half Speeds Through This Type
+Bumpy Terrain: Cat Moves At 3 Quarters Speeds Through This Type
+Regular Terrain: Cat Moves At Normal Speeds Through This Type
+Damaging Terrain: Cat Takes Specified Amount Of Damage Every Turn
+They Are On This Terrain, This Is Just A Terrain Mod.
+Conveyor Belts: Conveyor Belts Are Interesting, When A Cat Stands On It,
+They Move Its Speed Amount Hexes Per Turn In The Direction It's In, If The Cat
+Moves Along With The Conveyor In It's Direction, Then They Add The Conveyors
+Speed To Their Speed Value While Doing This, If The Cat Moves Against The Conveyor
+In The Opposite Direction, They Subtract The Conveyors Speed Value From Theirs While
+Doing This. Their May Be More Terrain Types Later.
 
 Conclusion
 ======================
