@@ -8,13 +8,13 @@ HP=256
 
 Speed=10
 
-Attack=262
+Attack=500
 
 Stamina=10
 
 Jump=3
 
-Defence=248
+Defence=100
 
 Ability=Fast Blast:
 
