@@ -14,9 +14,9 @@ Jump=2
 
 Speed=10
 
-Attack=5
+Attack=4
 
-Defence=15
+Defence=16
 
 Ability=Stinky:
 
