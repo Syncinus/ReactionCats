@@ -10,11 +10,11 @@ Speed=10
 
 Stamina=7
 
-Attack=520
+Attack=600
 
 Jump=2
 
-Defence=520
+Defence=600
 
 Ability=Ultelian:
 
