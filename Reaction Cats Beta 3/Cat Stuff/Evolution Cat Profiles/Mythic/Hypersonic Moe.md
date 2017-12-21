@@ -8,13 +8,13 @@ HP=515
 
 Speed=20
 
-Attack=420
+Attack=700
 
 Stamina=10
 
 Jump=4
 
-Defence=410
+Defence=400
 
 Ability=Megalonic Catnip
 
