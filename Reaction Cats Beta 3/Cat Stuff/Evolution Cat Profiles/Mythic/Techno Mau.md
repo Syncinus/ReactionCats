@@ -8,13 +8,13 @@ HP=517
 
 Speed=15
 
-Attack=515
+Attack=450
 
 Stamina=7
 
 Jump=2
 
-Defence=525
+Defence=650
 
 Ability=Attack Drain:
 
