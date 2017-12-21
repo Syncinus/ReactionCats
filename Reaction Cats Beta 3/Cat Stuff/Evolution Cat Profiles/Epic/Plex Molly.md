@@ -14,7 +14,7 @@ Jump=2
 
 Attack=250
 
-Defence=260
+Defence=350
 
 Ability=Plex Queen Of The House:
 
