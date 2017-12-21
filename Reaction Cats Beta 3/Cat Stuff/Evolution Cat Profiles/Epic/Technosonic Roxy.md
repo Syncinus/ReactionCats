@@ -12,9 +12,9 @@ Speed=10
 
 Jump=2
 
-Attack=260
+Attack=350
 
-Defence=260
+Defence=350
 
 Ability=Ultelian:
 
