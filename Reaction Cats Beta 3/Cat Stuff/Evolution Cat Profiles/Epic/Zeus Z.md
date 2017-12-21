@@ -12,9 +12,9 @@ Speed=15
 
 Jump=3
 
-Attack=255
+Attack=300
 
-Defence=255
+Defence=300
 
 Ability=Head Sleep:
 
