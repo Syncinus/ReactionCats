@@ -8,13 +8,13 @@ HP=265
 
 Speed=10
 
-Attack=255
+Attack=100
 
 Stamina=5
 
 Jump=1
 
-Defence=265
+Defence=500
 
 Ability=Terrain SMASH!:
 
