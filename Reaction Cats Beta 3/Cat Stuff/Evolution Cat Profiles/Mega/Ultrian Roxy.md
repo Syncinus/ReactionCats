@@ -10,11 +10,11 @@ Stamina=7
 
 Speed=10
 
-Attack=125
+Attack=175
 
 Jump=2
 
-Defence=125
+Defence=175
 
 Ability=Ultrian:
 
