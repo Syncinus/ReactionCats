@@ -12,9 +12,9 @@ Stamina=4
 
 Jump=1
 
-Attack=1209
+Attack=1400
 
-Defence=1221
+Defence=1600
 
 Ability=Star:
 
