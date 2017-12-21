@@ -1,3 +1,2 @@
-# ReactionCats
-The Reaction Cats Board Game,
-Currently With Beta V3 Being Developed.
+# Reaction Cats
+Coming Out December 24th 2017.
