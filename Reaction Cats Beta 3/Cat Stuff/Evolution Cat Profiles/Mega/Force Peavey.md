@@ -12,9 +12,9 @@ Stamina=5
 
 Jump=1
 
-Attack=126
+Attack=165
 
-Defence=124
+Defence=135
 
 Ability=Wiser:
 
