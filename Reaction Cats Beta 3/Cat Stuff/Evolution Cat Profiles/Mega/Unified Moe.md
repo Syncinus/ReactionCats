@@ -12,9 +12,9 @@ Speed=20
 
 Jump=4
 
-Attack=125
+Attack=180
 
-Defence=115
+Defence=120
 
 Ability=Supercharged Catnip
 
