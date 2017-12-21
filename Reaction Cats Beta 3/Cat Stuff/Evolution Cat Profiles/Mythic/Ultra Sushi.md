@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=514
+Attack=500
 
-Defence=514
+Defence=500
 
 Ability=Flight:
 
