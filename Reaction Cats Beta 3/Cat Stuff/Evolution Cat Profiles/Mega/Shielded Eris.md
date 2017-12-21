@@ -12,9 +12,9 @@ Jump=1
 
 Speed=6
 
-Attack=114
+Attack=140
 
-Defence=126
+Defence=160
 
 Ability=Mega Block:
 
