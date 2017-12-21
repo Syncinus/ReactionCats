@@ -14,7 +14,7 @@ Stamina=10
 
 Jump=3
 
-Defence=200
+Defence=300
 
 Ability=Megalonic Attacks:
 
