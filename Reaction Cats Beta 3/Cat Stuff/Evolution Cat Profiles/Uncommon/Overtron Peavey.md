@@ -12,9 +12,9 @@ Stamina=5
 
 Jump=1
 
-Attack=36
+Attack=38
 
-Defence=44
+Defence=42
 
 Ability=Wise:
 
