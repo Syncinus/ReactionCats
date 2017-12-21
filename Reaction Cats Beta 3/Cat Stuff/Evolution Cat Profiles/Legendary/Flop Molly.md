@@ -12,9 +12,9 @@ Stamina=6
 
 Jump=2
 
-Attack=355
+Attack=300
 
-Defence=365
+Defence=500
 
 Ability=Flop Queen Of The House:
 
