@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=4
 
-Attack=1220
+Attack=1700
 
-Defence=1210
+Defence=1300
 
 Ability=Hypernip
 
