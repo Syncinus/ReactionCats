@@ -12,9 +12,9 @@ Stamina=5
 
 Jump=1
 
-Attack=35
+Attack=30
 
-Defence=45
+Defence=50
 
 Ability=Powerful Fatness:
 
