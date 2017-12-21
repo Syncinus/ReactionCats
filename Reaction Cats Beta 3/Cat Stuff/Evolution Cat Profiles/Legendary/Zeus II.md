@@ -10,11 +10,11 @@ Speed=15
 
 Stamina=8
 
-Attack=360
+Attack=400
 
 Jump=3
 
-Defence=360
+Defence=400
 
 Ability=Head Sleep:
 
