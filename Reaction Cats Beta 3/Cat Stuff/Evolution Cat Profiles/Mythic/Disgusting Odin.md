@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=510
+Attack=400
 
-Defence=520
+Defence=700
 
 Ability=Disgusting Stench:
 
