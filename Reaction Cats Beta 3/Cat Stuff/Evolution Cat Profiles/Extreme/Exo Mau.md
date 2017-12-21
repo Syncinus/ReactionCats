@@ -8,9 +8,9 @@ HP=1217
 
 Speed=15
 
-Attack=1200
+Attack=1350
 
-Defence=1300
+Defence=1650
 
 Stamina=7
 
