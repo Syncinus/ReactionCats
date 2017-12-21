@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=4
 
-Attack=260
+Attack=400
 
-Defence=250
+Defence=200
 
 Ability=Hypercharged Catnip:
 
