@@ -12,9 +12,9 @@ Stamina=4
 
 Jump=1
 
-Attack=249
+Attack=250
 
-Defence=261
+Defence=450
 
 Ability=Penetration:
 
