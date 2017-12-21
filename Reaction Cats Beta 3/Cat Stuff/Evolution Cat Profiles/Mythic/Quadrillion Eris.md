@@ -8,13 +8,13 @@ HP=517
 
 Speed=6
 
-Attack=509
+Attack=425
 
 Stamina=4
 
 Jump=1
 
-Defence=521
+Defence=675
 
 Ability=Quadrillion:
 
