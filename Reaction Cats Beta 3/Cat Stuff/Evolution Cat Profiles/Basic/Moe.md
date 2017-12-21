@@ -8,13 +8,13 @@ HP=100
 
 Speed=20
 
-Attack=15
+Attack=16
 
 Stamina=10
 
 Jump=4
 
-Defence=5
+Defence=4
 
 Ability=Catnip:
 
