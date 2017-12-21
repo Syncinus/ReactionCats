@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=4
 
-Attack=365
+Attack=600
 
-Defence=355
+Defence=400
 
 Ability=Crazy Catnip
 
