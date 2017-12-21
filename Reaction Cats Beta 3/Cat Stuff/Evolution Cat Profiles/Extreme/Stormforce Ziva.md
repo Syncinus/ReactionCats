@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=3
 
-Attack=1222
+Attack=1850
 
-Defence=1208
+Defence=1150
 
 Ability=Storm:
 
