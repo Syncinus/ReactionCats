@@ -364,3 +364,6 @@ Rules And (Probably) Add What You Needed To Have Added.
 I Have Noticed That In Reaction Cats, Their Are Many
 Times That You Can Cheat, Their Will Be Admins To Figure
 Out If Your Cheating Or Not. And With That. Go And Play.
+
+Attack Formula = (att * att) / (att + (def x 2.5)) x3
+
