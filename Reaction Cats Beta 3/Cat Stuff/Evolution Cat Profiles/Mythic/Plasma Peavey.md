@@ -12,9 +12,9 @@ Jump=1
 
 Speed=6
 
-Attack=521
+Attack=650
 
-Defence=524
+Defence=450
 
 Ability=Plasma:
 
