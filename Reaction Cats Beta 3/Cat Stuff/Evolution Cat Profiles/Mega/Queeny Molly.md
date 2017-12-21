@@ -8,13 +8,13 @@ HP=1200
 
 Speed=15
 
-Attack=115
+Attack=130
 
 Stamina=6
 
 Jump=2
 
-Defence=125
+Defence=170
 
 Ability=Improved Queen Of The House:
 
