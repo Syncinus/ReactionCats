@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=89
+Attack=85
 
-Defence=89
+Defence=85
 
 Ability=Jump More:
 
