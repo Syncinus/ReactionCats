@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=4
 
-Attack=960
+Attack=1250
 
-Defense=950
+Defense=750
 
 Ability=Megalonic Catnip
 
