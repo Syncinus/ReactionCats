@@ -12,9 +12,9 @@ Stamina=5
 
 Jump=1
 
-Attack=85
+Attack=55
 
-Defence=95
+Defence=125
 
 Ability=Crush:
 
