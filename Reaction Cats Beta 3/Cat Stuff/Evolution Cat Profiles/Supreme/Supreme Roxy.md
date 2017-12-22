@@ -8,9 +8,9 @@ HP=956
 
 Speed=10
 
-Attack=960
+Attack=1050
 
-Defence=960
+Defence=1050
 
 Ability=Supreme:
 
