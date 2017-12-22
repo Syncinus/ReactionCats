@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=3
 
-Attack=97
+Attack=127
 
-Defence=83
+Defence=53
 
 Ability=Zivas Power:
 
