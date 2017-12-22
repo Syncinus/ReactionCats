@@ -8,13 +8,13 @@ HP=957
 
 Speed=6
 
-Attack=949
+Attack=850
 
 Stamina=4
 
 Jump=1
 
-Defence=961
+Defence=1150
 
 Ability=Septillion
 
