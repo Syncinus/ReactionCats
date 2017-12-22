@@ -12,9 +12,9 @@ Jump=1
 
 Speed=6
 
-Attack=961
+Attack=1115
 
-Defence=964
+Defence=885
 
 Ability=Plasma Powered:
 
