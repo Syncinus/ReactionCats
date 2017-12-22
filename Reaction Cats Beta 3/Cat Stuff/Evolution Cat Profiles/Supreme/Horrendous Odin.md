@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=950
+Attack=650
 
-Defence=960
+Defence=1350
 
 Ability=Horrendous Stench:
 
