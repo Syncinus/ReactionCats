@@ -14,7 +14,7 @@ Jump=2
 
 Attack=70
 
-Defence=120
+Defence=110
 
 Ability=Stinky:
 
