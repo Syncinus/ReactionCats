@@ -8,13 +8,13 @@ HP=955
 
 Speed=15
 
-Attack=950
+Attack=750
 
 Stamina=6
 
 Jump=2
 
-Defence=960
+Defence=1250
 
 Ability=Emperess Of The House:
 
