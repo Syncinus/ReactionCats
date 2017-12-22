@@ -8,11 +8,11 @@ HP=900
 
 Speed=20
 
-Attack=95
+Attack=120
 
 Stamina=10
 
-Defence=85
+Defence=60
 
 Jump=4
 
