@@ -10,11 +10,11 @@ Speed=20
 
 Stamina=10
 
-Attack=45
+Attack=75
 
 Jump=4
 
-Defence=35
+Defence=25
 
 Ability=Improved Catnip:
 
