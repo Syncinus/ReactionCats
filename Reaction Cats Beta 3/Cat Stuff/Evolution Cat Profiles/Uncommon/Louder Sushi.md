@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=39
+Attack=25
 
-Defence=39
+Defence=25
 
 Ability=Meowing Power:
 
