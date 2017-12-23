@@ -8,13 +8,13 @@ HP=1850
 
 Speed=10
 
-Attack=175
+Attack=105
 
 Stamina=5
 
 Jump=1
 
-Defence=185
+Defence=195
 
 Ability=Fatness Intimidation:
 
