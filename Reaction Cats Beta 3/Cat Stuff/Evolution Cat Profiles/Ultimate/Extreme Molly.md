@@ -12,7 +12,7 @@ Stamina=6
 
 Jump=2
 
-Attack=170
+Attack=120
 
 Defence=180
 
