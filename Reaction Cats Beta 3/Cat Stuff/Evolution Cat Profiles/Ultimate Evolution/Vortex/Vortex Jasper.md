@@ -14,7 +14,7 @@ Stamina=5
 
 Jump=1
 
-Attack=3250
+Attack=2250
 
 Jump=3
 
