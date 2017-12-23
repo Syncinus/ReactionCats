@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=170
+Attack=125
 
-Defence=180
+Defence=175
 
 Ability=Stinky:
 
