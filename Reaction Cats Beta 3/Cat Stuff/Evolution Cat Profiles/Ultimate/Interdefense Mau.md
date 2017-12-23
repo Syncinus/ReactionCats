@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=175
+Attack=135
 
-Defence=185
+Defence=165
 
 Ability=Blade Speed:
 
