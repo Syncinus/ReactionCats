@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=4184
+Attack=1750
 
-Defence=4184
+Defence=1750
 
 Ability=Extra Buffed Cat:
 
