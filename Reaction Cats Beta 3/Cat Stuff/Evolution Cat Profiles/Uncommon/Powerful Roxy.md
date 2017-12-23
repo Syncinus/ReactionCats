@@ -12,9 +12,9 @@ Speed=10
 
 Jump=2
 
-Attack=45
+Attack=75
 
-Defence=45
+Defence=75
 
 Ability=Improved Stealth:
 
