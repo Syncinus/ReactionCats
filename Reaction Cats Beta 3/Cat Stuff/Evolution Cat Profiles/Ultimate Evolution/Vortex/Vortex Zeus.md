@@ -8,9 +8,9 @@ HP=3215
 
 Speed=15
 
-Attack=3215
+Attack=3000
 
-Defence=3215
+Defence=3000
 
 Ability=Head Sleep:
 
