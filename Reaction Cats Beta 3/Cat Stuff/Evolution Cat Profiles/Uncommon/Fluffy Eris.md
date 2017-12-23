@@ -12,9 +12,9 @@ Stamina=4
 
 Jump=1
 
-Attack=34
+Attack=40
 
-Defence=46
+Defence=60
 
 Ability=Face Sleep:
 
