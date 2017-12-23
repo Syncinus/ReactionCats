@@ -8,7 +8,7 @@ HP=3217
 
 Speed=15
 
-Attack=1750
+Attack=2750
 
 Defence=3250
 
