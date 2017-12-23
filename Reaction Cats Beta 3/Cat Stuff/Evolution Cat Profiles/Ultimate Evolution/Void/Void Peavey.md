@@ -12,9 +12,9 @@ Stamina=5
 
 Jump=1
 
-Attack=4221
+Attack=4225
 
-Defence=4224
+Defence=1775
 
 Ability=Supercharge:
 
