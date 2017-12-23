@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=4210
+Attack=3400
 
-Defence=4220
+Defence=4600
 
 Ability=Millennium Stink:
 
