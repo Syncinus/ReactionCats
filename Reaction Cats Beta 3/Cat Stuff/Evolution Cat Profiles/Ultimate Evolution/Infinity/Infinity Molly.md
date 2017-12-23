@@ -12,9 +12,9 @@ Jump=2
 
 Speed=15
 
-Attack=2210
+Attack=2400
 
-Defence=2220
+Defence=2600
 
 Ability=Final Emperess:
 
