@@ -10,11 +10,11 @@ Speed=10
 
 Stamina=7
 
-Attack=4220
+Attack=4250
 
 Jump=2
 
-Defence=4220
+Defence=4250
 
 Ability=Terrex:
 
