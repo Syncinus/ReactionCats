@@ -12,9 +12,9 @@ Stamina=6
 
 Jump=2
 
-Attack=35
+Attack=30
 
-Defence=45
+Defence=70
 
 Ability=Queen Of The House:
 
