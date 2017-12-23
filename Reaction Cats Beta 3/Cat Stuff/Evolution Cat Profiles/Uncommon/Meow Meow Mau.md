@@ -14,7 +14,7 @@ Jump=2
 
 Attack=35
 
-Defence=45
+Defence=65
 
 Ability=Strikedown:
 
