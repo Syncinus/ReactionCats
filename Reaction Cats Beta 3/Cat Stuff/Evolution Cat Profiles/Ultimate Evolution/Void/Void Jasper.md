@@ -14,11 +14,11 @@ Stamina=5
 
 Jump=1
 
-Attack=4215
+Attack=3250
 
 Jump=3
 
-Defence=4225
+Defence=4750
 
 Ability=Hyper Defense:
 
