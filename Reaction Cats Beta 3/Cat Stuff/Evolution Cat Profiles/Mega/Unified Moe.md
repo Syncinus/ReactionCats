@@ -4,7 +4,7 @@ Rarity=Mega
 
 Vision=10
 
-HP=1200
+HP=1150
 
 Stamina=10
 
