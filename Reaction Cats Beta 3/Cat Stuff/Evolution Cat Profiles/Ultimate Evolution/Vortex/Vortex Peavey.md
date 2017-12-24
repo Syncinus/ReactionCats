@@ -4,7 +4,7 @@ Rarity=Vortex
 
 Vision=10
 
-HP=3216
+HP=32160
 
 Speed=6
 
