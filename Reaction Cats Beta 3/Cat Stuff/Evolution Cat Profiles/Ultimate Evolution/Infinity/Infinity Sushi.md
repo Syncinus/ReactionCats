@@ -4,7 +4,7 @@ Rarity=Infinity
 
 Vision=11
 
-HP=2253
+HP=22145
 
 Stamina=6
 
