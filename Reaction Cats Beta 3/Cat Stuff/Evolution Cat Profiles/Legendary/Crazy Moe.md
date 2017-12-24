@@ -4,7 +4,7 @@ Rarity=Legendary
 
 Vision=10
 
-HP=3600
+HP=3590
 
 Speed=20
 
