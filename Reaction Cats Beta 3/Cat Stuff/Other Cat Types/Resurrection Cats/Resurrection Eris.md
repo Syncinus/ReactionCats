@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2012
+HP=45012
 
 Speed=5
 
-Attack=2004
+Attack=4350
 
-Defence=2016
+Defence=4650
 
 Ability=Strikeback:
 
