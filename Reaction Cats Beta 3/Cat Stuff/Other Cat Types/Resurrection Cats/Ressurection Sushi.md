@@ -4,7 +4,7 @@ Rarity=Resurrection
 
 Vision=11
 
-HP=2033
+HP=45330
 
 Stamina=6
 
@@ -12,9 +12,9 @@ Jump=2
 
 Speed=7
 
-Attack=2014
+Attack=4400
 
-Defence=2014
+Defence=4400
 
 Ability=Extra Buffed Cat:
 
