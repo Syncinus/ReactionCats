@@ -18,9 +18,9 @@ HP=50505
 
 Speed=15
 
-Attack=1100
+Attack=5100
 
-Defence=1500
+Defence=5500
 
 Unique Ruleset=Spooky
 
