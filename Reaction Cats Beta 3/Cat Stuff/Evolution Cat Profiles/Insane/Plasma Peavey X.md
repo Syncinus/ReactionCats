@@ -4,7 +4,7 @@ Rarity=Insane
 
 Vision=10
 
-HP=696
+HP=6960
 
 Stamina=5
 
