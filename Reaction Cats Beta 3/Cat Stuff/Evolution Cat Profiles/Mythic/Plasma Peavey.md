@@ -2,7 +2,7 @@ Plasma Peavey:
 
 Rarity=Mythic
 
-Vision=10
+Vision=7
 
 HP=5160
 
