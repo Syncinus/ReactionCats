@@ -29,7 +29,7 @@ Epic: 20
 Legendary: 30
 Mythic: 35
 Insane: 45
-Supreme: 100
+Supreme: 70
 Extreme: 200
 
 Leveling Up
