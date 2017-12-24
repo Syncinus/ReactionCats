@@ -2,7 +2,7 @@ Void Eris:
 
 Rarity=Void
 
-Vision=6
+Vision=7
 
 HP=42170
 
