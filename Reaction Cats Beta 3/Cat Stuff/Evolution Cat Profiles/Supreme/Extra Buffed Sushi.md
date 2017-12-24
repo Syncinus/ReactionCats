@@ -4,7 +4,7 @@ Rarity=Supreme
 
 Vision=11
 
-HP=993
+HP=9400
 
 Stamina=6
 
