@@ -4,7 +4,7 @@ Rarity=Legendary
 
 Vision=11
 
-HP=3830
+HP=3590
 
 Stamina=6
 
