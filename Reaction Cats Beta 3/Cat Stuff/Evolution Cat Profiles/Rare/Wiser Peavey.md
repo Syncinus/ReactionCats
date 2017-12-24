@@ -2,7 +2,7 @@ Wiser Peavey:
 
 Rarity=Rare
 
-Vision=10
+Vision=7
 
 HP=910
 
