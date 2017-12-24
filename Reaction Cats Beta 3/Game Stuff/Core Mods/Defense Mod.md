@@ -18,13 +18,13 @@ Defends,
 
 Add Up Defense And Roll:
 
-1-2: Blocks 1 Damage
+1-2: Blocks 10% Of Damage
 
-3-4: Blocks 2 Damage
+3-4: Blocks 25% Of Damage
 
-5: Blocks 3 Damage
+5: Blocks 50% Of Damage
 
-6: Blocks 4 Damage
+6: Blocks 705 Of Damage
 
 
-Every 3 Levels, Increase Blocked Damage By 1
+No Level Up Buffs
