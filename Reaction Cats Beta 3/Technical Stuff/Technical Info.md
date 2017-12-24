@@ -6,19 +6,15 @@ By: Nick
 
 —Special Thanks To William
 
-—Version Designation:Beta 3.0
+—Version Designation:1.0.0
 
-—Version Codename:”Supersonic”
+—Version Codename:”Redux”
 
-—Easier Than Cat Wars
-
-—Soon It Will Be Out!
-
-—It’s MY Game
+-It Is Done.
 
 —Jaspers Very Fat
 
-—Theme Is NCS Lune
+—Theme Is Nuclear Fusion Redux
 
 
 © & ™ Swift/Stormus Games 2017
@@ -26,4 +22,3 @@ By: Nick
 
 By:SyncCheck
 
---The Final Beta.
