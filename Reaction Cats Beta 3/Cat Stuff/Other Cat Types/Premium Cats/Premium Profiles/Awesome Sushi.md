@@ -1,4 +1,4 @@
-Sushi:
+Awesome Sushi:
 
 League=Prime Forces
 
@@ -10,7 +10,7 @@ CatBux Cost=#75000
 
 Vision=11
 
-HP=1060
+HP=56005
 
 Stamina=6
 
