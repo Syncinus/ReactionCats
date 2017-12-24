@@ -1,4 +1,4 @@
-Queen Molly X:
+Lord Molly:
 
 Rarity=Insane
 
@@ -8,27 +8,27 @@ HP=6950
 
 Speed=15
 
-Attack=690
+Attack=450
 
 Stamina=6
 
 Jump=2
 
-Defence=700
+Defence=950
 
-Ability=Ultimate Queen Of The House:
+Ability=Lord Of The House:
 
-Molly Has A 5x5 Hex Area On The Map,
+Molly Has A 6x6 Hex Area On The Map,
 
-When An Enemy Cat Enters, They Take 20
+When An Enemy Cat Enters, They Take 75
 
 Damage Every Turn
 
-Ability=Queen:
+Ability=Lord:
 
-Molly Deals +10 Damage To Cats,
+Molly Destroys Terrain At The Rate
 
-She Can Destroy Terrain
+Of 1 Per 2 Turns.
 
 Attack=Hiss
 
