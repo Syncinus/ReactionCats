@@ -4,7 +4,7 @@ Rarity=Epic
 
 Vision=10
 
-HP=265
+HP=2650
 
 Speed=10
 
