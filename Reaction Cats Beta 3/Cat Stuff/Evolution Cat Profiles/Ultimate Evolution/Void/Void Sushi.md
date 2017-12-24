@@ -4,7 +4,7 @@ Rarity=Void
 
 Vision=11
 
-HP=4253
+HP=42200
 
 Stamina=6
 
