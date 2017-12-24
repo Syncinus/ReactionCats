@@ -20,13 +20,13 @@ Put Together Attack
 
 And Roll Dice For Damage Add:
 
-1-2: Deals 1 Damage
+1-2: Deals 125% Damage
 
-3-4: Deals 2 Damage
+3-4: Deals 150% Damage
 
-5: Deals 3 Damage
+5: Deals 175% Damage
 
-6: Deals 4 Damage
+6+: Deals 200% Damage
 
 
-Every Level, Increase Damage By 5
+No Level Up Bones.
