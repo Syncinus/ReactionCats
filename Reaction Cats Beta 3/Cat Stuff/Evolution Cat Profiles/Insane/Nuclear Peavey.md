@@ -2,7 +2,7 @@ Nuclear Peavey:
 
 Rarity=Insane
 
-Vision=10
+Vision=7
 
 HP=6960
 
