@@ -1,2 +1,2 @@
 # Reaction Cats
-Coming Out December 24th 2017.
+Coming Out Today At 6:00 PM
