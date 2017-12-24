@@ -2,7 +2,7 @@ Trillion Eris:
 
 Rarity=Legendary
 
-Vision=6
+Vision=7
 
 HP=3600
 
