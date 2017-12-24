@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2011
+HP=45011
 
 Speed=6
 
-Attack=2006
+Attack=4650
 
-Defence=2014
+Defence=4350
 
 Ability=Very, Very, Wise:
 
