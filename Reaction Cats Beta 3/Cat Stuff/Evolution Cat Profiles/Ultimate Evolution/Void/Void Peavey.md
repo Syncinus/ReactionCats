@@ -4,7 +4,7 @@ Rarity=Void
 
 Vision=10
 
-HP=4216
+HP=42160
 
 Speed=6
 
