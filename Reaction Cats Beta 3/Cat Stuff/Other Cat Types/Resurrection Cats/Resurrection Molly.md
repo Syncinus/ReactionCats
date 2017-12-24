@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2010
+HP=45010
 
 Speed=15
 
-Attack=2005
+Attack=4300
 
-Defence=2015
+Defence=4700
 
 Ability=Controller Of The House:
 
