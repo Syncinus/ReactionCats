@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2007
+HP=45007
 
 Speed=15
 
-Attack=2005
+Attack=4400
 
-Defence=2015
+Defence=4600
 
 Ability=Oversonic Stealth:
 
