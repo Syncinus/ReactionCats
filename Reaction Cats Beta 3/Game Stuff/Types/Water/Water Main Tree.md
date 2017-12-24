@@ -4,9 +4,11 @@ Ability=Water Immunity:
 
 This Cat Can't Suffer Any Bad
 
-Effects From Water, And They
+Effects From Water/Liquid, And They
 
-Can't Drown.
+Can't Drown, They Also Move Normally
+
+Across Ice.
 
 ### VP=5:
 
