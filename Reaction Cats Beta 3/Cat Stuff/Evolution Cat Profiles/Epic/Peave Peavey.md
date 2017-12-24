@@ -2,7 +2,7 @@ Peave Peavey:
 
 Rarity=Epic
 
-Vision=10
+Vision=7
 
 HP=2560
 
