@@ -4,7 +4,7 @@ Rarity=Uncommon
 
 Vision=10
 
-HP=410
+HP=7
 
 Speed=6
 
