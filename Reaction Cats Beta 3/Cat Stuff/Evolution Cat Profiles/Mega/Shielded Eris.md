@@ -2,7 +2,7 @@ Shielded Eris:
 
 Rarity=Mega
 
-Vision=10
+Vision=6
 
 HP=1220
 
