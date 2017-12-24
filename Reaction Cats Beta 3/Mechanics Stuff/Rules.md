@@ -136,6 +136,24 @@ That Things Like Traits Don't Disappear When You Evolve, And Also
 Note That The Things That Say 'Pick One:' Let You Pick Which Skill
 You Want To Go Up Ranks In.
 
+Effects:
+======================
+Sometimes, A Cat May Be Effected By An Effect,
+These Are Basically Wierd Conditions That May Happened
+To A Cat, The Effect Lasts As Many
+Turns As The Thing That Applyed 
+Them Says It Would Here Are The Current 3:
+1. Scared: The Cat Can't Move Towards, Or Attack,
+The Thing That Is Scaring, Them, And If The Thing
+Is Within Range 3 Of The Cat, The Cat Must Use Their
+Next Possible Passive Action To Move Away From It,
+2. Frozen: The Cat Can Not Do Anything On Their
+Turn Until This Wears Off, On The Plus Side, If
+They Are Frozen In Ice, The Ice Block Freezing Them
+By Default Has 1000 HP. Normally It Isn't Ice.
+3. Fire: The Cat Loses 75% Of Their Defense Value
+HP Every Turn, And The Cats Movement Has To Be Random.
+
 Types:
 ======================
 You May Have Noticed The Folder That Says 'Types' In The Game Stuff
@@ -451,6 +469,13 @@ Moves Along With The Conveyor In It's Direction, Then They Add The Conveyors
 Speed To Their Speed Value While Doing This, If The Cat Moves Against The Conveyor
 In The Opposite Direction, They Subtract The Conveyors Speed Value From Theirs While
 Doing This. Their May Be More Terrain Types Later.
+Liquid: The Cat Moves At Half Speed And Can Move Up Or Down Up To 2 Hexes,
+If The Cat Is Under The Water, Which Happends If They Move Down 1 Hex,
+For More Than 7 Turns, Unless They Have Something, The Cat Will Take
+20% Their Max HP Value Damage Per Turn Until They Are Not Underwater.
+Ice: The Cat Moves Normally, Except That The Cat Automatically Moves 1
+Hex In A Random Direction Every 3 Hexes They Move Unless The Cat Has An
+Ability That Lets Them Travel Normally On Ice.
 
 Conclusion
 ======================
