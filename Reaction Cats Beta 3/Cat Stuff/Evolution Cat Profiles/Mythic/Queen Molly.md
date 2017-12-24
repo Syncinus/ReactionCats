@@ -28,7 +28,9 @@ Ability=Queen:
 
 Molly Deals +10 Damage To Cats,
 
-She Can Destroy Terrain
+She Can Destroy Terrain At The Rate
+
+Of 1 Per 2 Turns.
 
 Attack=Hiss
 
