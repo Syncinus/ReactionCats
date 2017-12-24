@@ -2,7 +2,7 @@ Vortex Eris:
 
 Rarity=Vortex
 
-Vision=10
+Vision=6
 
 HP=32170
 
