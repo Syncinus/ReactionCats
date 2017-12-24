@@ -12,9 +12,9 @@ Stamina=7
 
 Jump=2
 
-Attack=65
+Attack=75
 
-Defence=85
+Defence=105
 
 Ability=Strikedown:
 
