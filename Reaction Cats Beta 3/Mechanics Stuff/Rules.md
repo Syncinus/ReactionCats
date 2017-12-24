@@ -368,6 +368,14 @@ Your Level Cap Is 100, Whenever Your Level Up,
 Gain 1 Core And 1 Charge Of Your Choice, They Can
 Be At, Or Below Your Level.
 
+Charges:
+======================
+Charges Are Actually An Advanced Rule,
+You Don't Have To Use Them But You Can,
+It's Just For Newer Players And People Who
+Want The Game To Go Faster, But You Can Use
+Them If You Want, Of Course.
+
 More About Cores And Charges:
 ======================
 Now, I Will Explain A Bit More About Cores/Charges,
@@ -450,7 +458,17 @@ Built In Actions:
 There Are 2 Actions A Cat Can Always Do,
 The Cat Can Always Use An Active Action To Do And Attack,
 And Can Always Use A Passive Action To Move,
-The Cores Just Add Buffs To These Actions.
+The Cores Just Add Buffs To These Actions,
+Also Note That You Can Do 2 Other Actions,
+1. Active Action=Interact:
+
+Allows Cat To Interact With Object
+
+Like Door If The Object Can Be Interacted With.
+
+2. Passive Action=Skill Check:
+
+Lets Cat Preform Skill Check.
 
 Terrain Types:
 ======================
@@ -477,14 +495,38 @@ Ice: The Cat Moves Normally, Except That The Cat Automatically Moves 1
 Hex In A Random Direction Every 3 Hexes They Move Unless The Cat Has An
 Ability That Lets Them Travel Normally On Ice.
 
+Walls And Doors:
+======================
+Their Are Walls And Doors In This Game,
+They Are What Objects Are, Walls And Doors
+Can Be Simple Or Complex, Walls That Are Simple
+Usually Have Less HP, Doors That Are Simple Take
+An Active Action To Open, Complex Walls Have Lots
+Of HP, Complex Doors Take A Whole Turn To Open, Also,
+Their Is Another Thing Called Hypertech, Hypertech Walls Are
+Really Hard To Destroy, Hypertech Doors Take 2 Turns To Open.
+
+More About Doors:
+======================
+When A Cat Opens A Door, It Closes Behind Him By Default,
+Unless He Wants To Keep It Open, If A Cat Travels Through The Open
+Door They Can Choose To Close It After Traveling Through, Complex And
+Hypertech Doors Can Somethimes Be Locked, Which Means That To Unlock
+It You Need To Preform A DL 10 Computers Check For Complex Doors,
+And A DL 20 Computers To Unlock A Hypertech, Note That By Unlocking
+It You Are Not Opening It, Finally, It Is Possible For A Cat To Use A
+Passive Action To Lock A Lockable Door From The Side That It Is Lockable,
+And It Takes A Passive Action To Unlock The Door If You Know How Like If It
+Is For Your Team Base Or If It Is Your Base, And It Is Always A Passive Action To Lock
+A Door, And It Can Only Be Locked From The Side That It Is Specified
+To Be Lockable.
+
 Conclusion
 ======================
 Thats It. If This Didn’t Cover Everything, Then Tell Me
-On The Website And What Confuses You, I Will Fix The
-Rules And (Probably) Add What You Needed To Have Added.
-I Have Noticed That In Reaction Cats, Their Are Many
-Times That You Can Cheat, Their Will Be Admins To Figure
-Out If Your Cheating Or Not. And With That. Go And Play.
+Through The Issues Section Of The Game Itself, I Will Fix The
+Rules And Consider Adding What You Need.
+Please Be A Fair Player And Don't Cheat --Nick
 
 Attack Formula = (att * att) / (att + (def x 2.5)) x3 --Not Used, But Here Just In-Case
 
