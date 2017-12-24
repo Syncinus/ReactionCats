@@ -12,13 +12,13 @@ Stamina=4
 
 Jump=1
 
-Attack=689
+Attack=575
 
-Defence=701
+Defence=825
 
-Ability=Quadrillion:
+Ability=Sextillion:
 
-Eris Has 4 Passive 
+Eris Has 5 Passive 
 
 Actions Every Turn
 
