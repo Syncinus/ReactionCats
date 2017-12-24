@@ -245,13 +245,12 @@ Vision Affects How Accurate Your Cat Is At Attacking,
 When You Do An Attack, Roll A D12 And Add Your Vision Stat
 To The Result. And Then Apply That Effect To The Final Result.
 Here Are The Dice Roll Effects:
-3: Deal 1 Quarter Damage
-4: Deal Half Damage
-5: Deal 3 Quarters Damage
-6-9: Deal Normal Damage
-10: Deal 1.5X Damage
-11-15: Deal 2X Damage
-16+: Deal 3X Damage
+1-8: Deal 25% Damage
+9-11: Deal 50% Damage
+12: Deal 75% Damage
+13-21: Deal Normal Damage
+22: Deal 200% Damage
+23+: Deal 300% Damage
 
 Resurrect:
 ======================
