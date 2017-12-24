@@ -2,7 +2,7 @@ Sextillion Eris:
 
 Rarity=Insane
 
-Vision=6
+Vision=7
 
 HP=6970
 
