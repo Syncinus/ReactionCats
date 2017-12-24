@@ -10,7 +10,7 @@ CatBux Cost=#75000
 
 Vision=10
 
-HP=1400
+HP=34500
 
 Stamina=9
 
