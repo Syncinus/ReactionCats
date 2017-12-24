@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2010
+HP=45010
 
 Speed=20
 
-Attack=2015
+Attack=4675
 
-Defence=2005
+Defence=4325
 
 Ability=Insanity Catnip:
 
