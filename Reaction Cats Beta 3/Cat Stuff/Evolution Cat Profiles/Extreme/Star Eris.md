@@ -2,7 +2,7 @@ Star Eris:
 
 Rarity=Extreme
 
-Vision=10
+Vision=6
 
 HP=1217
 
