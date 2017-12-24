@@ -4,7 +4,7 @@ Rarity=Vortex
 
 Vision=11
 
-HP=3253
+HP=32145
 
 Stamina=6
 
