@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=3
 
-Attack=962
+Attack=300
 
-Defence=948
+Defence=1700
 
 Ability=Ultimate Attacks:
 
