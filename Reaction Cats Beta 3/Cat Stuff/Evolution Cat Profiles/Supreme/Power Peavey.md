@@ -2,7 +2,7 @@ Power Peavey:
 
 Rarity=Supreme
 
-Vision=10
+Vision=7
 
 HP=9560
 
