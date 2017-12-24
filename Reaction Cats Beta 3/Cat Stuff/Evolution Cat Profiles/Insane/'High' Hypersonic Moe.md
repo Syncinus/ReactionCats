@@ -1,4 +1,4 @@
-Hypersonic Moe X:
+'High' Hypersonic Moe:
 
 Rarity=Insane
 
@@ -12,9 +12,9 @@ Stamina=10
 
 Jump=4
 
-Attack=700
+Attack=1050
 
-Defence=690
+Defence=350
 
 Ability=Megalonic Catnip
 
@@ -28,9 +28,11 @@ When Activated Moe May Increase
 
 His Speed By +25
 
-Ability=Hypersonic:
+Ability=High Hypersonic:
 
 Moe Can Desecrate Terrain
+
+At The Rate Of 2 Per Turn.
 
 Attack=Claws
 
