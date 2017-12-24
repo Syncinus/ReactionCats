@@ -14,7 +14,7 @@ Stamina=5
 
 Jump=2
 
-HP=1000
+HP=50505
 
 Speed=15
 
