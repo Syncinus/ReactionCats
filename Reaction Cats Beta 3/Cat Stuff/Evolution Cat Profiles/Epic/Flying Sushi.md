@@ -4,7 +4,7 @@ Rarity=Epic
 
 Vision=11
 
-HP=278
+HP=2780
 
 Stamina=6
 
