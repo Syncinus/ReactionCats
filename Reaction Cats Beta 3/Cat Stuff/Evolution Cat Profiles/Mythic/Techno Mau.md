@@ -4,7 +4,7 @@ Rarity=Mythic
 
 Vision=10
 
-HP=517
+HP=5160
 
 Speed=15
 
