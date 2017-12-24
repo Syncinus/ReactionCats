@@ -1,4 +1,4 @@
-Jaspor XR:
+Fattor Jaspor:
 
 Rarity=Insane
 
@@ -12,17 +12,17 @@ Stamina=5
 
 Jump=1
 
-Attack=695
+Attack=300
 
-Defence=705
+Defence=1100
 
 Ability=Terrain SMASH!:
 
 Jasper Destroys Terrain At
 
-A Rate Of 1 Turn
+A Rate Of 1 Per Turn
 
-Ability=JX:
+Ability=JXR:
 
 Jasper Has +10 Speed
 
