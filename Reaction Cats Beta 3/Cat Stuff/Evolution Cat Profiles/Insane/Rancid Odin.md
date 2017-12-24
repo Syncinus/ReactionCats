@@ -1,4 +1,4 @@
-Disgusting Odin X:
+Rancid Odin:
 
 Rarity=Insane
 
@@ -8,13 +8,13 @@ HP=7000
 
 Speed=10
 
-Attack=690
+Attack=400
 
 Stamina=7
 
 Jump=2
 
-Defence=700
+Defence=1000
 
 Ability=Disgusting Stench:
 
@@ -24,13 +24,17 @@ They Take 25 Damage Every Turn They Stay
 
 There Until They Move Away
 
-Ability=Attack Drainer:
+Ability=Multi Drainer:
 
-When A Cat Is In Odin’s Stink Field,
+When Cats Are In Odins Stink
 
-They Lose 10 Attack Per Turn Until
+Field, Their Attack And Defense
 
-They Leave, The, Their Defense Restores
+Values Are Both Drained By 20
+
+Every Turn Until They Leave,
+
+Then The Values Are Set Back To Normal
 
 Attack=Claws
 
