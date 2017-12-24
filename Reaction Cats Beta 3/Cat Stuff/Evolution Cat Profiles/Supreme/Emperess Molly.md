@@ -4,7 +4,7 @@ Rarity=Supreme
 
 Vision=10
 
-HP=955
+HP=9550
 
 Speed=15
 
