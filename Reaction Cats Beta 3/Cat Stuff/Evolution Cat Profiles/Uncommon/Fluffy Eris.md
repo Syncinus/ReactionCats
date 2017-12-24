@@ -2,7 +2,7 @@ Fluffy Eris:
 
 Rarity=Uncommon
 
-Vision=10
+Vision=7
 
 HP=420
 
