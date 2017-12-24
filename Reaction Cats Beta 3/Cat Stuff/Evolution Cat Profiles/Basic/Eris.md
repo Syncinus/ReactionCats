@@ -2,7 +2,7 @@ Eris:
 
 Rarity=Basic
 
-Vision=10
+Vision=6
 
 HP=120
 
