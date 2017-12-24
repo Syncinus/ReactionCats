@@ -6,13 +6,13 @@ Vision=10
 
 Spotting=7
 
-HP=2011
+HP=45015
 
 Speed=8
 
-Attack=2017
+Attack=4900
 
-Defence=2003
+Defence=4100
 
 Ability=Ripping Hits:
 
