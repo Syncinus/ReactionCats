@@ -2,7 +2,7 @@ Septillion Eris:
 
 Rarity=Supreme
 
-Vision=10
+Vision=6
 
 HP=9565
 
