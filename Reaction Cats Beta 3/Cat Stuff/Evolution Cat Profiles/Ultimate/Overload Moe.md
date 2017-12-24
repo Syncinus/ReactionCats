@@ -4,7 +4,7 @@ Rarity=Ultimate
 
 Vision=10
 
-HP=1750
+HP=1695
 
 Speed=20
 
