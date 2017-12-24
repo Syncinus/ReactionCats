@@ -1,4 +1,4 @@
-Megalonic Ziva X:
+Horrific Ziva:
 
 Rarity=Insane
 
@@ -8,23 +8,23 @@ HP=6960
 
 Speed=10
 
-Attack=702
+Attack=1075
 
 Stamina=10
 
 Jump=3
 
-Defence=688
+Defence=325
 
-Ability=Megalonic Attacks:
+Ability=Horrific Attacks:
 
-Cats Take 30 Damage Per
+Cats Take 130 Damage Per
 
 Turn For 2 Turns When Their 
 
 Hit By Ziva
 
-Ability=Speed Defection:
+Ability=Super Speed Defection:
 
 If A Cat Is Hit By Ziva, They
 
