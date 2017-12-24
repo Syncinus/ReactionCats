@@ -8,7 +8,7 @@ CatBux Cost=75000
 
 Vision=10
 
-HP=2500
+HP=55000
 
 Speed=20
 
