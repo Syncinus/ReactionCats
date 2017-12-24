@@ -32,6 +32,8 @@ Ability=Hypersonic:
 
 Moe Can Desecrate Terrain
 
+At The Rate Of 1 Per Turn.
+
 Attack=Claws
 
 Melee
