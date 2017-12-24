@@ -4,7 +4,7 @@ Rarity=Mega
 
 Vision=5
 
-HP=1250
+HP=1230
 
 Speed=10
 
