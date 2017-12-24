@@ -2,7 +2,7 @@ Infinity Eris:
 
 Rarity=Infinity
 
-Vision=6
+Vision=7
 
 HP=22170
 
