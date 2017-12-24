@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=5
 
-HP=2015
+HP=45015
 
 Speed=10
 
-Attack=2005
+Attack=4200
 
-Defence=2015
+Defence=4800
 
 Ability=Horrible Stench:
 
