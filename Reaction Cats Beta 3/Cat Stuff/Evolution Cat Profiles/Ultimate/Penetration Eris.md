@@ -2,7 +2,7 @@ Penetration Eris:
 
 Rarity=Ultimate
 
-Vision=10
+Vision=7
 
 HP=1770
 
