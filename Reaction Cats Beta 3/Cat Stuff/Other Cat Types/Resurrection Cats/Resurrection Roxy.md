@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2011
+HP=45020
 
 Speed=10
 
-Attack=2015
+Attack=4600
 
-Defence=2015
+Defence=4600
 
 Ability=Overload Stealth:
 
