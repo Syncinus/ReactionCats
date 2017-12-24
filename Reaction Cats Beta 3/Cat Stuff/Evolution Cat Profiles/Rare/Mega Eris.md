@@ -2,7 +2,7 @@ Mega Eris:
 
 Rarity=Rare
 
-Vision=10
+Vision=6
 
 HP=920
 
