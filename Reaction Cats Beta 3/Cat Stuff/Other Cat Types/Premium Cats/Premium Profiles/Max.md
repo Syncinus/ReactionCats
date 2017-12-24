@@ -18,9 +18,9 @@ Jump=3
 
 Speed=15
 
-Attack=1400
+Attack=5400
 
-Defence=1100
+Defence=5100
 
 Unique Ruleset=Rage
 
