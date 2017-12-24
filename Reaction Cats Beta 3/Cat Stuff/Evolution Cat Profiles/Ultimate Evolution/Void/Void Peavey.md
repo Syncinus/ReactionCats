@@ -2,7 +2,7 @@ Void Peavey:
 
 Rarity=Void
 
-Vision=10
+Vision=7
 
 HP=42160
 
