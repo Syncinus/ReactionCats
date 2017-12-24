@@ -4,7 +4,7 @@ Rarity=Infinity
 
 Vision=5
 
-HP=2220
+HP=22200
 
 Speed=10
 
