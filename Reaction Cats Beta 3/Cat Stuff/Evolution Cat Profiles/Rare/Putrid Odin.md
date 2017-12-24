@@ -4,7 +4,7 @@ Rarity=Rare
 
 Vision=5
 
-HP=950
+HP=920
 
 Speed=10
 
