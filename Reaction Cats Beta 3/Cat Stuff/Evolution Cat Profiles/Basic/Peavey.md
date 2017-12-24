@@ -2,7 +2,7 @@ Peavey:
 
 Rarity=Basic
 
-Vision=10
+Vision=7
 
 HP=110
 
