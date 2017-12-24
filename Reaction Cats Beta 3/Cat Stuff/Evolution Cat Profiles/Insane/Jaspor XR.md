@@ -4,7 +4,7 @@ Rarity=Insane
 
 Vision=10
 
-HP=705
+HP=7050
 
 Speed=10
 
