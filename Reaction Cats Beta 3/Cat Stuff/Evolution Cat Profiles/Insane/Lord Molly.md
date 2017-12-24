@@ -28,7 +28,7 @@ Ability=Lord:
 
 Molly Destroys Terrain At The Rate
 
-Of 1 Per 2 Turns.
+Of 1 Per Turn.
 
 Attack=Hiss
 
