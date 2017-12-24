@@ -2,7 +2,7 @@ Supercharge Peavey:
 
 Rarity=Extreme
 
-Vision=10
+Vision=7
 
 HP=1216
 
