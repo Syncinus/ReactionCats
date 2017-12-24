@@ -29,4 +29,5 @@ And Roll Dice For Damage Add:
 6+: Deals 200% Damage
 
 
-No Level Up Bones.
+
+No Level Up Bonuses.
