@@ -4,7 +4,7 @@ Rarity=Mythic
 
 Vision=11
 
-HP=538
+HP=5380
 
 Stamina=6
 
