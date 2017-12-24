@@ -2,7 +2,7 @@ Vortex Peavey:
 
 Rarity=Vortex
 
-Vision=10
+Vision=7
 
 HP=32160
 
