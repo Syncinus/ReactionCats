@@ -1,4 +1,4 @@
-Plasma Peavey X:
+Nuclear Peavey:
 
 Rarity=Insane
 
@@ -12,21 +12,21 @@ Jump=1
 
 Speed=6
 
-Attack=701
+Attack=800
 
-Defence=704
+Defence=600
 
-Ability=Plasma:
+Ability=Nuclear:
 
-Peavey Has +20 Speed
+Peavey Gets +1 On
 
-When Attacking Enemies
+All Dice Rolls He Makes
 
 Ability=Terrain Attack:
 
 Peavey Can Destroy Terrain At The Rate Of
 
-1 Turn
+1 Per Turn.
 
 Attack=Claws:
 
