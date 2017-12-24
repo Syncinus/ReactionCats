@@ -18,9 +18,9 @@ Jump=2
 
 Speed=20
 
-Attack=1300
+Attack=5300
 
-Defence=1200
+Defence=5200
 
 Meow Points=30
 
