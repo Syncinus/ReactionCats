@@ -4,13 +4,13 @@ Rarity=Ressurection
 
 Vision=10
 
-HP=2010 
+HP=45010 
 
 Speed=12
 
-Attack=2010
+Attack=4500
 
-Defence=2010
+Defence=4500
 
 Ability=Hypersonic Head Sleep:
 
