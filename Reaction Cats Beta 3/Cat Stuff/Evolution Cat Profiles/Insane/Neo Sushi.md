@@ -1,10 +1,10 @@
-Ultra Sushi X:
+Neo Sushi:
 
 Rarity=Insane
 
 Vision=11
 
-HP=680
+HP=6800
 
 Stamina=6
 
@@ -12,17 +12,17 @@ Jump=2
 
 Speed=7
 
-Attack=694
+Attack=675
 
-Defence=694
+Defence=675
 
 Ability=Flight:
 
 Sushi Can Fly.
 
-Ability=Ultra:
+Ability=Neo:
 
-Sushi Can Preform 2 Active Actions
+Sushi Can Preform 3 Active Actions
 
 A Turn.
 
