@@ -2,7 +2,7 @@ Quadrillion Eris:
 
 Rarity=Mythic
 
-Vision=6
+Vision=7
 
 HP=5170
 
