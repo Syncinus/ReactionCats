@@ -18,9 +18,9 @@ Jump=0
 
 Speed=2
 
-Attack=1100
+Attack=4100
 
-Defence=1700
+Defence=5850
 
 Unique Ruleset=Fatness
 
