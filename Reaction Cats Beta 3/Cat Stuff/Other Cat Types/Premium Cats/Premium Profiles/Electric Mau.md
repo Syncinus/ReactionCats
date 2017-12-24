@@ -12,9 +12,9 @@ HP=55000
 
 Speed=20
 
-Attack=1700
+Attack=4700
 
-Defence=2300
+Defence=5300
 
 Unique Ruleset=Charged
 
