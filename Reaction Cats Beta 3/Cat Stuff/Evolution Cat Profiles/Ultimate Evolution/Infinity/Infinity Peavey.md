@@ -2,7 +2,7 @@ Infinity Peavey:
 
 Rarity=Infinity
 
-Vision=10
+Vision=7
 
 HP=22160
 
