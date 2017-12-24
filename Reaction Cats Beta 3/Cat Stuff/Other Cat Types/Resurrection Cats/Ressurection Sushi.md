@@ -4,7 +4,7 @@ Rarity=Resurrection
 
 Vision=11
 
-HP=45330
+HP=44985
 
 Stamina=6
 
