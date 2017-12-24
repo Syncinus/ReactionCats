@@ -30,7 +30,7 @@ Legendary: 30
 Mythic: 35
 Insane: 45
 Supreme: 70
-Extreme: 200
+Extreme: 100
 
 Leveling Up
 ======================
@@ -53,18 +53,45 @@ Charges Buff Your Cores, Place The Bundle Of
 Charge Things Onto Of The Stack Or Core Things To
 Represent A Charge, Charges Can Only Go On Cores
 Of Their Type, With Is Said In The File, Also, Put Your
-Charge Back In The Place It Came From When You’ve Used It.
+Charge Back In The Place It Came From When You’ve Used It,
+The Way It Works Is You And a Friend Dual Each Other In A Match,
+In This Match, You Select A Cat You Own, And It Is Explained
+Later How To Get Cats And Other Stuff, You Can Also Play This
+Game Like An RPG, And Have Missions And GM's,
+The Material In This File Is Assorted, You May Have To
+Go And Re-Read It A Few Times To Get The Hang Of It,
+Anyway, I Will Explain More About Matches Later, If You Stay
+Reading The Rules Of The Game...
 
 Now I Explain Attacks:
 ======================
-Attacks Are A Big Aspect, When You Do An Attack Against An Enemy Cat,
-Roll Out This Process:
-Compare Speed Values, If The Enemy Has A Bigger Speed Value Then Roll-Off,
-Whoever Gets A Higher Result Wins, So If You Win The Roll Off, You Hit,
-If The Enemy Wins, They Dodge, Then, If You Hit, Select Your Attack. Then
-Modify Everything The Attack Says And Then, With The Modified Attack And
-Reduced Enemy Defense, Reduce The Enemys HP By The Modified Attack Value Minus
-The Modified Defense Value, Then Set All Stats Back To Normal.
+Attacking Is A Complicated Process, But I Will Explain It:
+First, You And Your Enemy Roll Your D6's, Then, Multiply
+The Results By Half Of Your Speed Value, Whoever Has The Higher
+Value Wins, So If You Have The Higher Value, You Hit, If They Have The
+Higher Value, They Dodge, Anyway, Once You've Done That, Select One Of
+Your Attacks, Then, Modify Your Attack Value And The Enemy's Defense
+Values By It, Then, Roll A D4, Divide The Enemys Modified Defense Value By That,
+Round Stuff Up, After That, Subtract The Enemys Modified, Divided, Defense
+Value From Your Attack Value, Then You Have Your Final Number, To Apply
+The Damage, Roll Accuracy And Apply The Results To Your Attack Value.
+This Process May Be Complicated, But It's Efficent And Realistic, And
+Once You've Got The Hang Of It, It Should Take 10 Seconds.
+
+Going On Gaurd:
+======================
+Going On Gaurd Is A Special Thing That A Cat Can
+Do, It Takes The Whole Turn To Go On Gaurd, And Once
+The Cat Is On Gaurd, They Can't Move, The Cat Decides
+If They Want To Stay On Or If They Want To Go Off Gaurd
+At The Start Of The Turn, When On Gaurd, The Cat Automatically
+Attacks Any Enemy Cat That Walks Past Them, And Can Still Attack
+Again That Turn, As It Is A Free Action, Also, Enemy Cats That Pass
+The Cat On Gaurd Are Stopped And Can't Move Away From The Cat On Gaurd
+For 1 Turn, Their Is One Very Special Thing Gaurd Does, It Makes Your
+Attacks Use Your Defense Value In Place Of Your Attack Value, Which Means
+That Defense Based Cats Going On Gaurd Is Better Than Attack Based Cats Going
+On Gaurd.
 
 Skills And Checks:
 ======================
@@ -80,6 +107,49 @@ Equal Or Higher Than The DL Of The Check, You Suceed, If It Is Lower, You Fail.
 To Gain More In A Skill, Your Cat Must Level Up. Every Level Your Cat Goes Up Allows It
 To Gain 1 Rank In A Certain Skill, The Max DL For Anything Is 30, And The Max Skill Level
 Is 10. This Adds To The RPG Aspect Of Reaction Cats.
+
+Ultimate Evolution:
+======================
+This Is The Type Of Evolution For The Best Of The Best, It Exceeds
+Extreme Rarity, To Get It, And Be Able To Evolve Beyond Extreme,
+Their Are 2 Ways To Do It: 1. Get An Ultimate Evolution Token Through
+An Event, Tournament, Etc. 2. Have 4 Different Extreme Cats That Are All
+At Max Level On Their Type, And These Cats Must Each Be On Different Cats,
+So Basically, You Must Have A Max Level Fire, Water, Earth, And Air Cat,
+Once You Do That, You Get An Ultimate Evolution Token That Lets You Unlock
+This, Type Stuff Does Not Disappear After Your Cat Evolves Beyond Extreme,
+The Order The Ultimate Evolution Raritys Go Through Are Infinity, Then Vortex,
+Then Void, And Your Max Level Extreme Cats All Evolve To Infinity, Here
+Are The Max Levels Before Evolution For These Cats:
+Infinity: 125
+Vortex: 150
+Void: 200
+Also, These Cats Have More Than 2 Starting
+Abilitys On Them.
+
+Power Trees:
+======================
+In The Game Stuff Folder, Their Are Things Called Power
+Trees, These Are Specific Special Trees For Cats, Whenever Your
+Cat Evolves, Check Your Power Tree To See What You Got, Note
+That Things Like Traits Don't Disappear When You Evolve, And Also
+Note That The Things That Say 'Pick One:' Let You Pick Which Skill
+You Want To Go Up Ranks In.
+
+Types:
+======================
+You May Have Noticed The Folder That Says 'Types' In The Game Stuff
+Section, Those Are Special Types For Cats, Once Your At Max Level
+Extreme Cat Rarity, You Pick One Of Those 4 Types And One Of The Classes
+In The Type, Once You Join A Type, Make Sure You Get The Thing From Your Main
+Type Main Tree That Costs 0 VP, The Reason It Is VP Is Because Once You
+Enter A Type, Count Up All The VP You've Earned With That Cat In That Type
+Scince You Joined That Type, Whenever You Get To A Specific Amount Of These
+'Type Victory Points' Then You Get Special Feautres, And Of Course, You Also
+Obtain Stuff From The Class You Selected In The Type Aswell, Once Your Type Victory
+Points Reach 100, Stop Counting Them For That Cat. You Can Switch Types On A Cat, But
+You Remove All The Stuff From That Type From The Cat And You Also Reset Your Type
+Victory Point Count.
 
 Defense:
 ======================
@@ -107,6 +177,33 @@ Every Turn That One Of These Apply’s, You Regenerate 1 Stamina
 And Your Speed Value Goes Up By 1 And If Your Stamina Is Over Half
 Your Attack Speed Reverts To It’s Original Value.
 You Can’t Regenerate More Than Your Max Stamina.
+
+Matches And How To Win:
+======================
+This Is How Matches Work:
+Basically, You And The Enemy
+Pick Hexes For Your Cats To Start
+On, After That, Pick 3 Objectives,
+If You Have More Than 1 Cat On Each Side
+Then Pick Up As Extra As Their Are Cats Beyond
+1 On Each Side, These Objectives Give You Victory
+Points, Which Is How You Win, Your Goal Is To
+Go And Achieve These, They Give You Victory Points,
+Note That Both You And Your Opponent Pick The Objectives
+For Both Of You, As In You Both Have The Same Objectives To Achive,
+If Someone Achieves An Objective, The Other Person Can't
+Achieve That Objective Anymore, The Game Ends When
+One Person Obtains More Than Half Of The Victory Points
+Worth Of All The Objectives,
+Victory Points Are How You Win, Objectives
+Tell You How Many Victory Points They
+Are Worth By Saying 'VP=' And Then A Number, 
+This Is How Much Victory Points You Obtain After Achiving
+That Objective, Taking Down An Enemy Cat Gives You Only 1
+Victory Point, But It Makes Stuff Easier, The Game Also Ends
+If 1 Team Has All Their Cats Took-Down, In The End, The Person
+Who Won Is The Person Who Has The Most Objectives, So Go
+And Achive Those Objectives.
 
 Speed:
 ======================
@@ -153,8 +250,8 @@ Here Are The Dice Roll Effects:
 5: Deal 3 Quarters Damage
 6-9: Deal Normal Damage
 10: Deal 1.5X Damage
-11-12: Deal 2X Damage
-13+: Deal 3X Damage
+11-15: Deal 2X Damage
+16+: Deal 3X Damage
 
 Resurrect:
 ======================
@@ -365,5 +462,5 @@ I Have Noticed That In Reaction Cats, Their Are Many
 Times That You Can Cheat, Their Will Be Admins To Figure
 Out If Your Cheating Or Not. And With That. Go And Play.
 
-Attack Formula = (att * att) / (att + (def x 2.5)) x3
+Attack Formula = (att * att) / (att + (def x 2.5)) x3 --Not Used, But Here Just In-Case
 
