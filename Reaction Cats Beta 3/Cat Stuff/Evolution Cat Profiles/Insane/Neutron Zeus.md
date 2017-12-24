@@ -1,4 +1,4 @@
-Colossal Zeus X:
+Neutron Zeus:
 
 Rarity=Insane
 
@@ -12,9 +12,9 @@ Speed=15
 
 Jump=3
 
-Attack=695
+Attack=700
 
-Defence=695
+Defence=700
 
 Ability=Head Sleep:
 
@@ -22,11 +22,13 @@ Zeus May Use An Action To Remove 1
 
 Ability From A Cat Seven Times Per Game.
 
-Ability=Colossal:
+Ability=Neutron Reflection:
 
-Zeus Has +15 Defense And
+When An Enemy Cat Attacks Zeus With
 
-+15 Speed When In Combat
+A Melee Attack, 10% Of The Damage
+
+Is Reflected Back At The Attacker.
 
 Attack=Claws
 
