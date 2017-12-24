@@ -2,7 +2,7 @@ Concentration Eris:
 
 Rarity=Epic
 
-Vision=10
+Vision=6
 
 HP=2570
 
