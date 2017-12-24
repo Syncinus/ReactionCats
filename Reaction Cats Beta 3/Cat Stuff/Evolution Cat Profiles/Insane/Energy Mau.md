@@ -1,4 +1,4 @@
-Techno Mau X:
+Energy Mau:
 
 Rarity=Insane
 
@@ -8,21 +8,23 @@ HP=6970
 
 Speed=15
 
-Attack=695
+Attack=850
 
-Defence=705
+Defence=550
 
 Stamina=7
 
 Jump=2
 
-Ability=Attack Drain:
+Ability=Two Drain:
 
 If A Cat Is Hit By Mau,
 
-They Lose 10 Attack For 
+They Lose 100 Attack And
 
-2 Turns
+100 Defense For 
+
+1 Turn.
 
 Ability=Oversonic Blaster:
 
