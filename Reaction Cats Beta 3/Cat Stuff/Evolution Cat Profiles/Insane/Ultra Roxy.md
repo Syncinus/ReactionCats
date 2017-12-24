@@ -1,4 +1,4 @@
-Mega Roxy X:
+Ultra Roxy:
 
 Rarity=Insane
 
@@ -10,19 +10,19 @@ Stamina=7
 
 Speed=10
 
-Attack=700
+Attack=750
 
 Jump=2
 
-Defence=700
+Defence=750
 
-Ability=Ultelian:
+Ability=Ultriex:
 
 When A Cat Is Hit
 
 By Roxy, They Take
 
-5 Damage Per Turn For 2 Turns
+100 Damage Per Turn For 2 Turns
 
 Ability=Megacharged Attack:
 
