@@ -20,7 +20,7 @@ Ability=Millennium Stink:
 
 When A Cat Is 3 Hex’s Away From Odin,
 
-They Take 60 Damage Every Turn They Stay
+They Take 60 Damage Every Action They Stay
 
 There Until They Move Away
 
