@@ -1,4 +1,4 @@
-Nip Moe:
+Hypernip Moe:
 
 Rarity=Extreme
 
@@ -16,11 +16,11 @@ Attack=1700
 
 Defence=1300
 
-Ability=Hypernip
+Ability=Hypernip:
 
 Moe May Use Catnip
 
-Only Once Every 3 Turns
+Only Once Every 4 Turns
 
 And It Lasts 1 Turn
 
