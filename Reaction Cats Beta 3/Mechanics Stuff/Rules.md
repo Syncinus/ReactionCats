@@ -239,7 +239,8 @@ Jumping:
 ======================
 Terrain Can Have Multiple Levels, This Means That
 Your Cat Can Jump, You Can Jump Up As Many Levels
-As Your Jump Value Is Equal To.
+As Your Jump Value Is Equal To, Also, You Can Jump Over
+Your Jump Value Hexes.
 
 HP: 
 ======================
