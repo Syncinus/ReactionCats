@@ -26,9 +26,7 @@ Ability=Sonic Attack:
 
 Peavey Can Attack Twice,
 
-However, This Ability Has
-
-A 3 Turn Recharge
+Period.
 
 Attack=Claws:
 
