@@ -194,8 +194,7 @@ Now, You Might Be Wondering What Losing Stamina Does.
 Basically, Every Point Of Stamina You Lose, Your Speed Value Goes Down By 1,
 And If Your Stamina Reaches Half It’s Value, Your Speed Is Reduced To Half,
 However, You Can Regenerate Stamina, Here Are The Ways You Can Regenerate Stamina:
-Moving At 1 Quarter Or Less Of Your Max Speed,
-Not Attacking,
+Moving At 45% Or Less Of Your Max Speed,
 Every Turn That One Of These Apply’s, You Regenerate 1 Stamina
 And Your Speed Value Goes Up By 1 And If Your Stamina Is Over Half
 Your Speed Gets Fixed To What It Was When Not Halfed, But Still Reduced.
