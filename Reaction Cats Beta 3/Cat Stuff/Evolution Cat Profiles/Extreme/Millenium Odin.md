@@ -1,6 +1,6 @@
 Millennium Odin:
 
-Rarity=Supreme
+Rarity=Extreme
 
 Vision=5
 
