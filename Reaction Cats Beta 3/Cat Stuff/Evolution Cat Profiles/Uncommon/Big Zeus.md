@@ -4,7 +4,7 @@ Rarity=Uncommon
 
 Vision=10
 
-HP=420
+HP=400
 
 Stamina=8
 
