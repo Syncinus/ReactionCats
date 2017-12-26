@@ -18,7 +18,9 @@ Defence=80
 
 Ability=Powerful Fatness:
 
-Jasper Takes -5 Damage From Attacks
+Jasper Regenerates 75% Defense Value
+
+HP Every Turn.
 
 Ability=Terrain Destruction:
 
