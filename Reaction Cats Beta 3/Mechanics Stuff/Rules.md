@@ -80,7 +80,7 @@ Once You've Got The Hang Of It, It Should Take 10 Seconds.
 
 Action Skipping:
 ======================
-Note That You're Cat Doesn't Have To
+Note That Your Cat Doesn't Have To
 Do An Action, As You Can Just Skip Instead
 
 Going On Gaurd:
