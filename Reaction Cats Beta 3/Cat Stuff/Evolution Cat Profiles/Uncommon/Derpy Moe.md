@@ -46,5 +46,13 @@ Melee
 
 Attack +3
 
-Enemy Defense -3
+-3 Enemy Defense
+
+Attack=Bounce Tackle:
+
+1M Range
+
++3 Attack
+
+-2 Enemy Defense
 
