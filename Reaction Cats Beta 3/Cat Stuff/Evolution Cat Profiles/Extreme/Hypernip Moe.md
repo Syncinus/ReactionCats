@@ -4,7 +4,7 @@ Rarity=Extreme
 
 Vision=10
 
-HP=1215
+HP=1185
 
 Speed=20
 
