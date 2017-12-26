@@ -14,7 +14,7 @@ Slots=1
 
 Effects:
 
-Defends,
+Defends Againt The Next Attack On You,
 
 Add Up Defense And Roll:
 
