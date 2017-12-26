@@ -192,13 +192,13 @@ Jumping (1 Stamina)
 Flying (2 Stamina)
 Now, You Might Be Wondering What Losing Stamina Does.
 Basically, Every Point Of Stamina You Lose, Your Speed Value Goes Down By 1,
-And If Your Stamina Reaches Half It’s Value, Your Attack Speed Is Reduced By Half,
+And If Your Stamina Reaches Half It’s Value, Your Speed Is Reduced To Half,
 However, You Can Regenerate Stamina, Here Are The Ways You Can Regenerate Stamina:
-Moving At 1 Quarter Or Less Of Your Max Speed
-Preforming 1 Or Less Attack A Turn
+Moving At 1 Quarter Or Less Of Your Max Speed,
+Not Attacking,
 Every Turn That One Of These Apply’s, You Regenerate 1 Stamina
 And Your Speed Value Goes Up By 1 And If Your Stamina Is Over Half
-Your Attack Speed Reverts To It’s Original Value.
+Your Speed Gets Fixed To What It Was When Not Halfed, But Still Reduced.
 You Can’t Regenerate More Than Your Max Stamina.
 
 Matches And How To Win:
