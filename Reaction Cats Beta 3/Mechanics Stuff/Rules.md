@@ -78,6 +78,11 @@ The Damage, Roll Accuracy And Apply The Results To Your Attack Value.
 This Process May Be Complicated, But It's Efficent And Realistic, And
 Once You've Got The Hang Of It, It Should Take 10 Seconds.
 
+Action Skipping:
+======================
+Note That You Cat Doesn't Have To
+Do An Action, As You Can Just Skip Instead
+
 Going On Gaurd:
 ======================
 Going On Gaurd Is A Special Thing That A Cat Can
