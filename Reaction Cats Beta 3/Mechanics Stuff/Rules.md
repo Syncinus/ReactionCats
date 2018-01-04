@@ -460,9 +460,10 @@ Are Of The Games Website, I Will Respond To Them.
 
 Built In Actions:
 ======================
-There Are 2 Actions A Cat Can Always Do,
+There Are 3 Actions A Cat Can Always Do,
 The Cat Can Always Use An Active Action To Do And Attack,
 And Can Always Use A Passive Action To Move,
+And A Cat Can Use Their Full Turn To Go On Gaurd,
 The Cores Just Add Buffs To These Actions,
 Your Attack Has A 1 Turn Cooldown,
 Also Note That You Can Do 2 Other Actions,
