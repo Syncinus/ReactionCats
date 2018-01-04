@@ -32,6 +32,19 @@ Insane: 45
 Supreme: 70
 Extreme: 100
 
+Attack Combos:
+======================
+If Your Cat Hits The Enemy Cat,
+And Succeeds, They Can Attack Again The
+Same Turn, If They Hit Again, Then They Do
+2X Damage, Every Time That They Hit, They Can
+Do Another Attack With The Multiplier Increasing
+By 1, So Basically Every Time You Hit, You Can
+Do Another Attack With The Damage Going Up By X1 Multiplier,
+Also, Every 2 Extra Attacks You Do Beyond You Max Attacks Increases
+Your Recharge Time By One Turn, You Can't Switch Targets, It Must All
+Be Against One Cat.
+
 Leveling Up
 ======================
 Now, You Might Be Wondering, How Do I Level Up?
