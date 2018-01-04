@@ -18,7 +18,7 @@ Defence=1750
 
 Ability=Millennium Stink:
 
-When A Cat Is 1 Hex’s Away From Odin,
+When A Cat Is 3 Hex’s Away From Odin,
 
 They Take 60 Damage Every Action They Stay
 
@@ -30,7 +30,7 @@ When A Cat Is In Odin’s Stink Field,
 
 They Lose 10 From Attack And Defense
 
-And 2 From Speed Every Turn, The Values
+And 1 From Speed Every Turn, The Values
 
 Reset When They Leave His Stink
 
