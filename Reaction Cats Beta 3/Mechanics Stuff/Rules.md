@@ -91,6 +91,16 @@ The Damage, Roll Accuracy And Apply The Results To Your Attack Value.
 This Process May Be Complicated, But It's Efficent And Realistic, And
 Once You've Got The Hang Of It, It Should Take 10 Seconds.
 
+Attack Speed And Recharge:
+======================
+Basically, You Can Do Your Attack Speed
+Number Of Attacks Before You Must Wait Your
+Attack Recharge Turns To Do Another Attack,
+Note That Every Turn That You Don't Attack
+Your Recharge Goes Down By One, So You Can
+Recharge When You Still Have Attacks Left,
+You Can Not Recharge More Than Your Attack Speed Attacks.
+
 Action Skipping:
 ======================
 Note That Your Cat Doesn't Have To
