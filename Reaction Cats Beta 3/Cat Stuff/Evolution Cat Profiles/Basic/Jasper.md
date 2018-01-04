@@ -1,6 +1,6 @@
 Jasper:
 
-Rarity=Basic1
+Rarity=Basic
 
 Vision=10
 
