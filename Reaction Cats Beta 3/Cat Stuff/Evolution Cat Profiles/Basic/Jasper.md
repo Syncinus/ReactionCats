@@ -10,7 +10,7 @@ Stamina=5
 
 Jump=1
 
-Speed=10
+Speed=6
 
 Attack=5
 
