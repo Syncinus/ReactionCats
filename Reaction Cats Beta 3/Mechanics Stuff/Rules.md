@@ -464,6 +464,7 @@ There Are 2 Actions A Cat Can Always Do,
 The Cat Can Always Use An Active Action To Do And Attack,
 And Can Always Use A Passive Action To Move,
 The Cores Just Add Buffs To These Actions,
+Your Attack Has A 1 Turn Cooldown,
 Also Note That You Can Do 2 Other Actions,
 1. Active Action=Interact:
 
@@ -474,6 +475,7 @@ Like Door If The Object Can Be Interacted With.
 2. Passive Action=Skill Check:
 
 Lets Cat Preform Skill Check.
+
 
 Terrain Types:
 ======================
