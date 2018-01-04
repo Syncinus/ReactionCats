@@ -264,15 +264,17 @@ You Can Win Them From Tournaments.
 Vision:
 ======================
 Vision Affects How Accurate Your Cat Is At Attacking,
-When You Do An Attack, Roll A D12 And Add Your Vision Stat
+When You Do An Attack, Roll A D12/2 D6 And Add Your Vision Stat
 To The Result. And Then Apply That Effect To The Final Result.
 Here Are The Dice Roll Effects:
-1-8: Deal 25% Damage
-9-11: Deal 50% Damage
-12: Deal 75% Damage
-13-21: Deal Normal Damage
-22: Deal 200% Damage
-23+: Deal 300% Damage
+1-4: 25% Damage
+5-8: 50% Damage
+9-10: 75% Damage
+11-14: 100% Damage
+15-16: 125% Damage
+17-18: 150% Damage
+19-20: 200% Damage
+21+: 300% Damage
 
 Resurrect:
 ======================
