@@ -232,7 +232,7 @@ Speed:
 Your Speed Helps With Attacks And Determines How Fast
 You Move, You Can Move Up To Your Max Speed Value, Witch Is
 The Value Of Your Cats Speed Rating, However, Speed Can Affect
-Stamina.
+Stamina, Cats Can Never Go Below 1 Speed, No Exeptions.
 
 Jumping:
 ======================
