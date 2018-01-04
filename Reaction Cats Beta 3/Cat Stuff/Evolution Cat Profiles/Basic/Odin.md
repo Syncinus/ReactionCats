@@ -4,6 +4,10 @@ Rarity=Basic
 
 Vision=5
 
+Attack Speed=2
+
+Recharge=1
+
 Spotting=7
 
 HP=135
