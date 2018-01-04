@@ -6,7 +6,7 @@ Vision=5
 
 Spotting=7
 
-HP=150
+HP=135
 
 Stamina=7
 
@@ -22,7 +22,7 @@ Ability=Stinky:
 
 Cats Next To Odin Take
 
-2 Damage Per Turn Until
+10 Damage Per Turn Until
 
 They Leave
 
