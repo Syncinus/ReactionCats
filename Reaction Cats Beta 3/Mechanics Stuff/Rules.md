@@ -186,10 +186,9 @@ Cats Have Stamina, It Is The Thing That Makes Your Cat Go,
 The Lower Your Stamina Gets, The Weaker Your Cat Gets,
 Here Are The Ways You Lose Stamina, It Will Tell You How Much
 Stamina That You Lose Each Turn That You Do This Action:
-Move At More Than Half Your Max Speed (1 Stamina)
-Preform More Than Half Your Max Attacks Per Turn (1 Stamina)
-Jumping (1 Stamina)
-Flying (2 Stamina)
+Move At More Than Half Your Max Speed (1 Stamina),
+Jumping (1 Stamina),
+Flying (2 Stamina),
 Now, You Might Be Wondering What Losing Stamina Does.
 Basically, Every Point Of Stamina You Lose, Your Speed Value Goes Down By 1,
 And If Your Stamina Reaches Half It’s Value, Your Speed Is Reduced To Half,
