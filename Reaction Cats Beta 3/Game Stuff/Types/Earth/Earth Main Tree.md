@@ -2,7 +2,7 @@
 
 Ability=Earth Defense:
 
-This Cat Doesn`t Take Damage
+This Cat Doesn't Take Damage
 
 From Rocks And Most Terrain Hitting Them.
 
