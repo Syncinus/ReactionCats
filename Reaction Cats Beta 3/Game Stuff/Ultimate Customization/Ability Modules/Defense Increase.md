@@ -6,4 +6,4 @@ CP=2
 
 This Cats Defense Against
 
-Cats Is Increased By 125%
+Cats Is Increased By 25%
