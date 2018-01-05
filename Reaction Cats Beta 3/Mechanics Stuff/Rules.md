@@ -350,12 +350,11 @@ Here Are The Dice Roll Effects:
 
 Resurrect:
 ======================
-This Is A Big Mechanic, Once You Get A Level
-200 Extreme Cat And Keep Becoming More
-Powerful, You Can Resurrect, By Doing This
+This Is A Big Mechanic, Once You Have A Level 200 Extreme Cat, 
+You Can Resurrect, By Doing This
 You Delete All Your Cats And Reset Your Player
 Level To 0, However, You Gain 1 Resurrection Cat
-Of Your Choice, You Can Resurrect 10 Time, Resurrection
+Of Your Choice, You Can Resurrect Up To 11 Times, Resurrection
 Cats Don’t Get Deleted When Your Resurrect, Also, You Can’t
 Pick The Same Resurrection Cat Twice.
 
