@@ -1,9 +1,11 @@
 Ability=Foof:
 
-When Getting Attacked The First Time By A Cat,
+When An Enemy Cat Gets Within Melee
 
-The Cat Foofs!, This Makes
+Range Of This Cat,
 
-The Cat Increase Their Defense By 10 Until
+This Cat Foofs!, This Makes
 
-The Encounter Is Over
+This Cats Defense Increase By 35%
+
+Until The Enemy Moves 3 Or More Hexes Away.
