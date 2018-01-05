@@ -96,7 +96,7 @@ Ultimate Customization:
 You May Have Noticed The Ultimate
 Customization Folder In The Game Stuff
 Section, This Is To Customize Cats, Inside
-The Folder It Has 1. Ability Modules, 2. Actions, And 3. Event Stuff
+The Folder It Has 1. Ability Modules, And 2. Event Stuff
 All Of This Is Buyable Using Customization Points, To Get 1 Customization
 Point, Take Down A Cat In A Battle, The Abilitys Have Something
 That Says AS, Short For Ability Slots, Cats In Reaction Cats Normally
