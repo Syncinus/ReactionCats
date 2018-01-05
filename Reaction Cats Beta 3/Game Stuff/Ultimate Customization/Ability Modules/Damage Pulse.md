@@ -1,5 +1,9 @@
 Ability=Damage Pulse:
 
+AS=2
+
+CP=4
+
 When Your Cat Loses Half
 
 Of Their HP Or Is Took Down,
