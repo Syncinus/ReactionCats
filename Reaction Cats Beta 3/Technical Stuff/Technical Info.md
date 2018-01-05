@@ -1,23 +1,25 @@
 Swift Games Reaction Cats
 =============================
-By: Nick
+Nick Is SyncChecks Real Name.
 
 —Created And Developed By:SyncCheck
 
 —Special Thanks To William
 
-—Version Designation:1.0.0
+—Version Designation:1.1
 
-—Version Codename:”Redux”
+—Version Codename:"Inversion"
 
--It Is Done.
+-Now With More Customization
+
+-The Update Is Named "The Customization Update"
 
 —Jaspers Very Fat
 
 —Theme Is Nuclear Fusion Redux
 
 
-© & ™ Swift/Stormus Games 2017
+© & ™ Swift/Stormus Games 2018
 
 
 By:SyncCheck
