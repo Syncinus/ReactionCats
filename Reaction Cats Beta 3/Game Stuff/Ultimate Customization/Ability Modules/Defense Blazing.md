@@ -1,7 +1,9 @@
 Ability=Defense Blazing:
 
-When You Hit This 
+When An Enemy
 
-Cat With A Melee Attack,
+Cat Hits You With With A Melee Attack,
 
-You Lose 25% Of Your Defense For 2 Turns
+They Lose Lose 25% Of Their Defense For 2 Turns,
+
+Doesn't Stack
