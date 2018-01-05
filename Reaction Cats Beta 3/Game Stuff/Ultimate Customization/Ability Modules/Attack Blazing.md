@@ -1,5 +1,9 @@
 Ability=Attack Blazing:
 
+AS=1
+
+CP=3
+
 When You Hit This 
 
 Cat With A Melee Attack,
