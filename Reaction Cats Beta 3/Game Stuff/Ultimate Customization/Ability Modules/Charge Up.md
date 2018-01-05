@@ -1,5 +1,9 @@
 Ability=Charge Up:
 
+AS=2
+
+CP=5
+
 This Cat May Charge,
 
 This Takes 1 Action At
