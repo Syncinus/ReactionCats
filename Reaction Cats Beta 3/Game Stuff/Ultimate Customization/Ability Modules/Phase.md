@@ -1,5 +1,9 @@
 Ability=Phase:
 
+AS=3
+
+CP=6
+
 Your Cat Can
 
 Move Through Objects,
