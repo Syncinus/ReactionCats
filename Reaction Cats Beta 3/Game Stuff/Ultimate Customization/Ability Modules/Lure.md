@@ -1,5 +1,9 @@
 Ability=Lure:
 
+AS=1
+
+CP=3
+
 Once Per Game,
 
 This Cat Can Lure 
