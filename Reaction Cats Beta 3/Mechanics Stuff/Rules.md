@@ -45,7 +45,41 @@ Also, Every 2 Extra Attacks You Do Beyond You Max Attacks Increases
 Your Recharge Time By One Turn, You Can't Switch Targets, It Must All
 Be Against One Cat.
 
-Leveling Up
+Rarity Order:
+======================
+Basic
+
+Uncommon
+
+Rare
+
+Mega
+
+Ultimate
+
+Epic
+
+Legendary
+
+Mythic
+
+Insane
+
+Supreme
+
+Extreme
+
+Infinity
+
+Vortex
+
+Void
+
+Ressurection
+
+Premium
+
+Leveling Up:
 ======================
 Now, You Might Be Wondering, How Do I Level Up?
 Basically, Whenever You Take Out A Cat In A Match,
