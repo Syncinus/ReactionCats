@@ -91,6 +91,21 @@ The Damage, Roll Accuracy And Apply The Results To Your Attack Value.
 This Process May Be Complicated, But It's Efficent And Realistic, And
 Once You've Got The Hang Of It, It Should Take 10 Seconds.
 
+Ultimate Customization:
+======================
+You May Have Noticed The Ultimate
+Customization Folder In The Game Stuff
+Section, This Is To Customize Cats, Inside
+The Folder It Has 1. Ability Modules, 2. Actions, And 3. Event Stuff
+All Of This Is Buyable Using Customization Points, To Get 1 Customization
+Point, Take Down A Cat In A Battle, The Abilitys Have Something
+That Says AS, Short For Ability Slots, Cats In Reaction Cats Normally
+Have 10 Ability Slots, All The Abilitys That Are On The Base Cat Count As
+1 Ability Slot Tooken Up, Different Abilitys In The Customizer Take Up Different
+Amounts Of Slots, So Weak Abilitys Usually Take Up 1 Slot, But The Strongest Abilitys
+Take Up To 3 Slots, Also Note That You Can 1 Rank In Any Skill Using 1 Point To Put
+On The Cat, Finally, These Kinds Of Abilitys Stay On A Cat Through Evolution.
+
 Attack Speed And Recharge:
 ======================
 Basically, You Can Do Your Attack Speed
