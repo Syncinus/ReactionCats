@@ -1,5 +1,9 @@
 Ability=Lick:
 
+AS=2
+
+CP=6
+
 Your Cat May Spend
 
 A Passive Action To Lick
