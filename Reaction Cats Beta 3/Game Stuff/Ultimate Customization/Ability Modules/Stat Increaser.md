@@ -2,4 +2,4 @@ Ability=Stat Increaser:
 
 All Of This Cats Stats
 
-Are Increased By 5
+Are Increased By 25%
