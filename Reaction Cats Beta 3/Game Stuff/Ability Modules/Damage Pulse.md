@@ -4,6 +4,6 @@ When Your Cat Loses Half
 
 Of Their HP Or Is Took Down,
 
-Everything Within 2 Hex’s From
+Everything Within 3 Hex’s Of
 
-The Cat Takes 5 Damage
+This Cat Takes Half Their HP Value Damage.
