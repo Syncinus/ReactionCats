@@ -4,4 +4,4 @@ When You Hit This
 
 Cat With A Melee Attack,
 
-You Lose 5 Defense For 2 Turns
+You Lose 25% Of Your Defense For 2 Turns
