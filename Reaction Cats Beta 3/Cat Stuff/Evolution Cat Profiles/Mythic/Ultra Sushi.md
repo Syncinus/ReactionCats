@@ -2,6 +2,10 @@ Ultra Sushi:
 
 Rarity=Mythic
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=5120
