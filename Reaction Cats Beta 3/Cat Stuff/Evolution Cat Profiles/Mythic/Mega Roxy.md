@@ -2,6 +2,10 @@ Mega Roxy:
 
 Rarity=Mythic
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=10
 
 HP=5180
