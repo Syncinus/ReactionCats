@@ -2,6 +2,10 @@ Interdefense Mau:
 
 Rarity=Ultimate
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=1770
