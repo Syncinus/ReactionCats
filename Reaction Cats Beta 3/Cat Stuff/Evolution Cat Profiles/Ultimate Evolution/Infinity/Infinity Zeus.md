@@ -2,6 +2,10 @@ Infinity Zeus:
 
 Rarity=Infinity
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=22185
