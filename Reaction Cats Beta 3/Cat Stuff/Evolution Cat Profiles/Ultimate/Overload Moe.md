@@ -2,6 +2,10 @@ Overload Moe:
 
 Rarity=Ultimate
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=1695
