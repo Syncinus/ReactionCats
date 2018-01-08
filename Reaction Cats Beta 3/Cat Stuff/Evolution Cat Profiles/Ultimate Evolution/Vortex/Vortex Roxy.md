@@ -2,6 +2,10 @@ Vortex Roxy:
 
 Rarity=Vortex
 
+Attack Speed=1
+
+Recharge=1
+
 Attack Speed=2
 
 Recharge=1
