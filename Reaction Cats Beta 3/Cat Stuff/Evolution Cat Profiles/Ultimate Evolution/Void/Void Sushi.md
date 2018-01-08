@@ -2,6 +2,10 @@ Void Sushi:
 
 Rarity=Void
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=42200
