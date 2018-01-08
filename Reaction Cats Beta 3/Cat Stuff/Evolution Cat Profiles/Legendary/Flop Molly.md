@@ -2,6 +2,10 @@ Flop Molly:
 
 Rarity=Legendary
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=10
 
 HP=3600
