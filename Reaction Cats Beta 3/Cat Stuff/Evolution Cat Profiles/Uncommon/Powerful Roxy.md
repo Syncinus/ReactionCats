@@ -1,6 +1,10 @@
 Powerful Roxy:
 
-Rarity=Basic
+Rarity=Uncommon
+
+Attack Speed=2
+
+Recharge=1
 
 Vision=10
 
