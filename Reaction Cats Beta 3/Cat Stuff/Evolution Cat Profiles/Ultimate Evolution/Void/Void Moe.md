@@ -2,6 +2,10 @@ Void Moe:
 
 Rarity=Void
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=42145
