@@ -1,5 +1,9 @@
 Hyper Jasper:
 
+Attack Speed=1
+
+Recharge=1
+
 Rarity=Extreme
 
 Vision=10
