@@ -2,6 +2,10 @@ Jaspor X:
 
 Rarity=Mythic
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=5300
