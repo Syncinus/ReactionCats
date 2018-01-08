@@ -2,6 +2,10 @@ Eris:
 
 Rarity=Basic
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=7
 
 HP=120
