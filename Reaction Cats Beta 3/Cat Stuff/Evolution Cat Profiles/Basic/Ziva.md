@@ -2,6 +2,10 @@ Ziva:
 
 Rarity=Basic
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 Stamina=10
