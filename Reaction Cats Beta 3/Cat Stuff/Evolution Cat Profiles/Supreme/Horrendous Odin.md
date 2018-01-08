@@ -2,6 +2,10 @@ Horrendous Odin:
 
 Rarity=Supreme
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=5
 
 HP=9605
