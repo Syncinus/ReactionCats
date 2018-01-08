@@ -2,6 +2,10 @@ Meow Meow Mau:
 
 Rarity=Uncommon
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=370
