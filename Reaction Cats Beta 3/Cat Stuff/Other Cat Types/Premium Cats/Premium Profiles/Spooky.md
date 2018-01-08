@@ -64,7 +64,7 @@ For The Rest Of The Round
 
 Attack=Derp
 
-1.5M Range
+2M Range
 
 +15 Attack
 
