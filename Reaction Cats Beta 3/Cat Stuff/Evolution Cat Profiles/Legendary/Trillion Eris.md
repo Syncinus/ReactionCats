@@ -2,6 +2,10 @@ Trillion Eris:
 
 Rarity=Legendary
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=7
 
 HP=3600
