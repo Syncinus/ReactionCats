@@ -2,6 +2,10 @@ Vortex Eris:
 
 Rarity=Vortex
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=7
 
 HP=32170
