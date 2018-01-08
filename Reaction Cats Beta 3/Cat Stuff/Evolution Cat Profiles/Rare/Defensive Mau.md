@@ -2,6 +2,10 @@ Defensive Mau:
 
 Rarity=Rare
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=870
