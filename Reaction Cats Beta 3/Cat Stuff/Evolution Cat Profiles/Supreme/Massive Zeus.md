@@ -2,6 +2,10 @@ Massive Zeus:
 
 Rarity=Supreme
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=9570
