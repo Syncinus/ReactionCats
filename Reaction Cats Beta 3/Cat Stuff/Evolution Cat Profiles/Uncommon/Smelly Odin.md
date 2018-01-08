@@ -2,6 +2,10 @@ Smelly Odin:
 
 Rarity=Uncommon
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=5
 
 HP=450
