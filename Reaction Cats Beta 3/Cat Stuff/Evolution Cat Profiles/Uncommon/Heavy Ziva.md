@@ -2,6 +2,10 @@ Heavy Ziva:
 
 Rarity=Uncommon
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 HP=410
@@ -18,9 +22,9 @@ Defence=20
 
 Ability=Zivas Power:
 
-Cats Have -3 Damage
+Cats Do Only 75% Damage
 
-Against Ziva When Attcking.
+Against Ziva When Attacking.
 
 Ability=A Little Fat:
 
