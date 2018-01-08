@@ -1,4 +1,8 @@
-Mega Eris:
+Stronger Eris:
+
+Attack Speed=1
+
+Recharge=2
 
 Rarity=Rare
 
