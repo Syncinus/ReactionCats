@@ -2,6 +2,10 @@ Void Jasper:
 
 Rarity=Void
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=42275
