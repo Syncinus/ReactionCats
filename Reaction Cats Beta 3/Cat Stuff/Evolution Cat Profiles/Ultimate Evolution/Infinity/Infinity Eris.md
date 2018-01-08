@@ -2,6 +2,10 @@ Infinity Eris:
 
 Rarity=Infinity
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=7
 
 HP=22170
