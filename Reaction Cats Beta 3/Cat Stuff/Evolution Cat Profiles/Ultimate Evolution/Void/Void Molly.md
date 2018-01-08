@@ -2,6 +2,10 @@ Void Molly:
 
 Rarity=Void
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=10
 
 HP=42150
