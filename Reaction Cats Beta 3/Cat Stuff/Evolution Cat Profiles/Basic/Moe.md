@@ -2,6 +2,10 @@ Moe:
 
 Rarity=Basic
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=100
