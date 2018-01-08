@@ -2,6 +2,10 @@ Crazy Ziva:
 
 Rarity=Legendary
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 HP=3610
