@@ -2,6 +2,10 @@ Unified Moe:
 
 Rarity=Mega
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=1150
