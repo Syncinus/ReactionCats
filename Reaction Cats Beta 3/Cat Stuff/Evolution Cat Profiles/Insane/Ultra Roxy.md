@@ -2,6 +2,10 @@ Ultra Roxy:
 
 Rarity=Insane
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=10
 
 HP=6960
