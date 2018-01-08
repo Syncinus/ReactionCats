@@ -2,6 +2,10 @@ Hypercharge Zeus:
 
 Rarity=Extreme
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=1215
