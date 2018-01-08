@@ -2,6 +2,10 @@ Infinity Peavey:
 
 Rarity=Infinity
 
+Attack Speed=2
+
+Recharge=3
+
 Vision=7
 
 HP=22160
