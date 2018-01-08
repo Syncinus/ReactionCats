@@ -2,6 +2,10 @@ Hex Mau:
 
 Rarity=Legendary
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=3620
