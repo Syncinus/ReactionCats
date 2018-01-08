@@ -2,6 +2,10 @@ Superload Moe:
 
 Rarity=Epic
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=2535
