@@ -6,6 +6,10 @@ Type=Attack/CatBux
 
 Rarity=Advanced Premium 
 
+Attack Speed=4
+
+Recharge=1
+
 CatBux Cost=#75000
 
 Vision=10
