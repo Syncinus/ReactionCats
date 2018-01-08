@@ -10,11 +10,11 @@ Nick Is SyncChecks Real Name.
 
 —Version Designation:1.1
 
-—Version Codename:"Inversion"
+—Version Codename:"Recreation"
 
 -Now With More Customization
 
--The Update Is Named "The Customization Update"
+-The Update Is Named "The RPG Update"
 
 —Jaspers Very Fat
 
