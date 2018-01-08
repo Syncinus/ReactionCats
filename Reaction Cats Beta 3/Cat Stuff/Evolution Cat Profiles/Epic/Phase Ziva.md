@@ -2,6 +2,10 @@ Phase Ziva:
 
 Rarity=Epic
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 HP=2560
