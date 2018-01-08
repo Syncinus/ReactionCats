@@ -2,6 +2,10 @@ Overweight Ziva:
 
 Rarity=Rare
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 HP=910
