@@ -2,6 +2,10 @@ Hyper Zeus:
 
 Rarity=Mega
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=1200
