@@ -2,6 +2,10 @@ Sushi The Legend:
 
 Rarity=Legendary
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=3590
