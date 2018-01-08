@@ -2,6 +2,10 @@ Infinity Moe:
 
 Rarity=Infinity
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=22135
