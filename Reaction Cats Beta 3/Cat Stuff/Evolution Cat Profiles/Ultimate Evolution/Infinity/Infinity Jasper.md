@@ -2,6 +2,10 @@ Infinity Jasper:
 
 Rarity=Infinity
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=22255
