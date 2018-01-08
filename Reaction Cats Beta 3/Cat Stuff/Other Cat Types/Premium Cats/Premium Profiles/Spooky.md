@@ -6,6 +6,12 @@ Type=Crates/CatBux
 
 Rarity=Basic Premium 
 
+Attack Speed=Roll D4 At The Start Of Game
+
+And Whenever Your Done Recharging To Determine 
+
+Recharge=2
+
 CatBux Cost=#50000
 
 Vision=10
@@ -60,9 +66,9 @@ Attack=Derp
 
 1.5M Range
 
-+5 Attack
++15 Attack
 
--5 Enemy Defense When Hit
+-13 Enemy Defense When Hit
 
 Attack=Claw
 
@@ -100,13 +106,13 @@ It Be Used To Power Defense Charges.
 
 Spooky Ability CatBux:
 
-Whenever Spooky Uses His Spooky Ability, You Gain 10 CatBux, Spooky
+Whenever Spooky Uses His Spook Ability, You Gain 10 CatBux, Spooky
 
 Also Gains +5 Defense For The Rest Of The Round (Stacks)
 
 Levels And Spooky:
 
-Every Time You Use The Spooky Ability 5 Times You Can Level Up Once,
+Every Time You Use The Spook Ability 5 Times You Can Level Up Once,
 
 This Is Extremely Useful.
 
