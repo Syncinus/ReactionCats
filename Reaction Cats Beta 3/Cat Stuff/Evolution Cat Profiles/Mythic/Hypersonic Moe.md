@@ -2,6 +2,10 @@ Hypersonic Moe:
 
 Rarity=Mythic
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=5125
