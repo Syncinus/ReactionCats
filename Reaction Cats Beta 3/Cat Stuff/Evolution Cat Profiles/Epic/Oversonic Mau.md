@@ -1,5 +1,9 @@
 Oversonic Mau:
 
+Attack Speed=2
+
+Recharge=2
+
 Rarity=Epic
 
 Vision=10
