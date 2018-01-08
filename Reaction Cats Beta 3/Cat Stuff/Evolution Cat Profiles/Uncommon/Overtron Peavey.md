@@ -2,6 +2,10 @@ Overtron Peavey:
 
 Rarity=Uncommon
 
+Attack Speed=2
+
+Recharge=3
+
 Vision=10
 
 HP=7
