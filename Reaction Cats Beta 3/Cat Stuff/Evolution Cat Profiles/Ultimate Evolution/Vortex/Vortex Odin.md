@@ -2,6 +2,10 @@ Vortex Odin:
 
 Rarity=Vortex
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=5
 
 HP=32200
