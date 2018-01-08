@@ -2,6 +2,10 @@ Extreme Jasper:
 
 Rarity=Mega
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=1250
