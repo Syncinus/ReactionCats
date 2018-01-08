@@ -2,6 +2,10 @@ Vortex Mau:
 
 Rarity=Vortex
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=32170
