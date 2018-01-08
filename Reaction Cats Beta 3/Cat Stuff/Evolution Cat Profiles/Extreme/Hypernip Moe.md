@@ -2,6 +2,10 @@ Hypernip Moe:
 
 Rarity=Extreme
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=1185
@@ -18,7 +22,7 @@ Defence=1300
 
 Ability=Hypernip:
 
-Moe May Use Catnip
+Moe May Use Hypernip
 
 Only Once Every 4 Turns
 
