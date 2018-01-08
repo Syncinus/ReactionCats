@@ -213,25 +213,6 @@ That Things Like Traits Don't Disappear When You Evolve, And Also
 Note That The Things That Say 'Pick One:' Let You Pick Which Skill
 You Want To Go Up Ranks In.
 
-The RPG Stats:
-======================
-These Are The RPG Stats In Reaction Cats:
-
-Strength
-
-Intel
-
-Wisdom
-
-Charisma
-
-Dexterity
-
-Constitution
-
-At The Start Of The Game, You Have
-3 Points To Spend To Buff These Stats
-
 Effects:
 ======================
 Sometimes, A Cat May Be Effected By An Effect,
@@ -393,37 +374,37 @@ The Skillset:
 ======================
 These Are The Skills :
 
-Balance(Dexterity)
+Balance
 
-Stealth(
+Stealth
 
-Athletics(Dexterity)
+Athletics
 
-Deception(Wisdom)
+Deception
 
-Charm(Charisma)
+Charm
 
-Constructing(Strength)
+Constructing
 
-Moving Objects(Strength)
+Moving Objects
 
-Destructing(Constitution)
+Destructing
 
-Perception(Intel)
+Perception
 
-Resilience(Constitution)
+Resilience
 
-Coordination(Dexterity)
+Coordination
 
-Vigilance(Intel)
+Vigilance
 
-Coercion(Wisdom)
+Coercion
 
-Technology(Intel)
+Technology
 
-Negotiation(Charisma)
+Negotiation
 
-Survival(Wisdom)
+Survival
 
 You Can Also Make Custom Skills, For Custom Things.
 
