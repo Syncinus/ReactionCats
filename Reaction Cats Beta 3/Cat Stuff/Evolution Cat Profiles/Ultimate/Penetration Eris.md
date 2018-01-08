@@ -2,6 +2,10 @@ Penetration Eris:
 
 Rarity=Ultimate
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=7
 
 HP=1770
