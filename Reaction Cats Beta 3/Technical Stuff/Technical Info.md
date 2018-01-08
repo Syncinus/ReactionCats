@@ -14,7 +14,7 @@ Nick Is SyncChecks Real Name.
 
 —Now With More Customization
 
--The Update Is Named "The Fat Update"
+—The Update Is Named "The Fat Update"
 
 —Jaspers Very Fat
 
