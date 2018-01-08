@@ -2,6 +2,10 @@ Zeus Z:
 
 Rarity=Epic
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=2555
