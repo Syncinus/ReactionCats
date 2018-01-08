@@ -6,6 +6,10 @@ League=Prime Forces
 
 Rarity=Advanced Premium
 
+Attack Speed=1
+
+Recharge=1
+
 CatBux Cost=#80000
 
 Vision=10
@@ -16,7 +20,7 @@ Stamina=4
 
 Jump=0
 
-Speed=2
+Speed=3
 
 Attack=4100
 
