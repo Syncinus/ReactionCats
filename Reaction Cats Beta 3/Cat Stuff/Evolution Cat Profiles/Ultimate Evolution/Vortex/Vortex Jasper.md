@@ -2,6 +2,10 @@ Vortex Jasper:
 
 Rarity=Vortex
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=32250
