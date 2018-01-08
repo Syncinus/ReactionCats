@@ -2,6 +2,10 @@ Terrex Roxy:
 
 Rarity=Extreme
 
+Attack Speed=2
+
+Recharge=1
+
 Vision=10
 
 HP=1216
