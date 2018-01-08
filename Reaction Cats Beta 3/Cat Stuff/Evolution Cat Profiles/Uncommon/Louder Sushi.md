@@ -2,6 +2,10 @@ Louder Sushi:
 
 Rarity=Uncommon
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=33
