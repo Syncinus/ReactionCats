@@ -2,6 +2,10 @@ Stupidsonic Moe:
 
 Rarity=Supreme
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=9540
