@@ -2,6 +2,10 @@
 
 Rarity=Insane
 
+Attack Speed=3
+
+Recharge=4
+
 Vision=10
 
 HP=6940
