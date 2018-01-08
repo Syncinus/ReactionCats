@@ -2,6 +2,10 @@ Sushi:
 
 Rarity=Basic
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=13
