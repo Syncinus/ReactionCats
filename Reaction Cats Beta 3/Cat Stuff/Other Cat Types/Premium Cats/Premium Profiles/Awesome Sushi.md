@@ -6,6 +6,10 @@ Type=Crates/CatBux
 
 Rarity=Intermediate Premium 
 
+Attack Speed=2
+
+Recharge=1
+
 CatBux Cost=#75000
 
 Vision=11
