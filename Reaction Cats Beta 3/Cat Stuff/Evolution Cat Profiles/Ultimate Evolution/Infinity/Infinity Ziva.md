@@ -2,6 +2,10 @@ Infinity Ziva:
 
 Rarity=Infinity
 
+Attack Speed=3
+
+Recharge=1
+
 Vision=10
 
 HP=22160
