@@ -179,11 +179,11 @@ But You Can Train Them, Every Rank Of Skill You Go Up, You Get Better At
 Doing That Thing, Checks Are Basically What You Do If Your Trying To Preform
 A Specific Action, Each Check Has Its DL, This Is The Difficulty Level, When
 Preforming A Check, The DL Determines How Hard Is Is, To Preform A Check,
-Roll A D20, Then, Add Your Skill In That Kind Of Thing, If The Number Is
+Roll A D20, Then, Add Your Skill To It, And Then Add The Stat, If The Number Is
 Equal Or Higher Than The DL Of The Check, You Suceed, If It Is Lower, You Fail.
 To Gain More In A Skill, Your Cat Must Level Up. Every Level Your Cat Goes Up Allows It
-To Gain 1 Rank In A Certain Skill, The Max DL For Anything Is 30, And The Max Skill Level
-Is 10. This Adds To The RPG Aspect Of Reaction Cats.
+To Gain 1 Rank In A Certain Skill, Their Is No Max DL, And The Max Skill Level
+Is 10, Though That Is Nearly Impossible To Get. This Adds To The RPG Aspect Of Reaction Cats.
 
 Ultimate Evolution:
 ======================
@@ -212,6 +212,25 @@ Cat Evolves, Check Your Power Tree To See What You Got, Note
 That Things Like Traits Don't Disappear When You Evolve, And Also
 Note That The Things That Say 'Pick One:' Let You Pick Which Skill
 You Want To Go Up Ranks In.
+
+The RPG Stats:
+======================
+These Are The RPG Stats In Reaction Cats:
+
+Strength
+
+Intel
+
+Wisdom
+
+Charisma
+
+Dexterity
+
+Constitution
+
+At The Start Of The Game, You Have
+3 Points To Spend To Buff These Stats
 
 Effects:
 ======================
@@ -374,39 +393,39 @@ The Skillset:
 ======================
 These Are The Skills :
 
-Balance
+Balance(Dexterity)
 
-Stealth
+Stealth(
 
-Athletics
+Athletics(Dexterity)
 
-Deception
+Deception(Wisdom)
 
-Charm
+Charm(Charisma)
 
-Constructing
+Constructing(Strength)
 
-Moving
+Moving Objects(Strength)
 
-Destructing
+Destructing(Constitution)
 
-Perception
+Perception(Intel)
 
-Resilience
+Resilience(Constitution)
 
-Coordination
+Coordination(Dexterity)
 
-Vigilance
+Vigilance(Intel)
 
-Coercion
+Coercion(Wisdom)
 
-Technology
+Technology(Intel)
 
-Negotiation
+Negotiation(Charisma)
 
-Survival
+Survival(Wisdom)
 
-You Can Also Make Custom Skills
+You Can Also Make Custom Skills, For Custom Things.
 
 Leauges:
 ======================
