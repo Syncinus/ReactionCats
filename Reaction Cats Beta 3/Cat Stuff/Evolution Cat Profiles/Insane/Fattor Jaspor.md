@@ -2,6 +2,10 @@ Fattor Jaspor:
 
 Rarity=Insane
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=10
 
 HP=7050
