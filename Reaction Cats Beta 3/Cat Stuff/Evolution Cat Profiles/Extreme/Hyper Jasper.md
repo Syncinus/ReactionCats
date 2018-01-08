@@ -8,7 +8,7 @@ Rarity=Extreme
 
 Vision=10
 
-HP=1225
+HP=12225
 
 Speed=10
 
