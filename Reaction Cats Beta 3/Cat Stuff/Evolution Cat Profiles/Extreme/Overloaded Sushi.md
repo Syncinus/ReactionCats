@@ -2,6 +2,10 @@ Overloaded Sushi:
 
 Rarity=Extreme
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=1253
