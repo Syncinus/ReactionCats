@@ -8,7 +8,7 @@ Recharge=2
 
 Vision=10
 
-HP=1215
+HP=12095
 
 Speed=15
 
