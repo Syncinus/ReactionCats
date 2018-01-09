@@ -68,7 +68,7 @@ Attack=Ultimate Cannon:
 
 Speed=7
 
-Attack=5000
+Attack=2000
 
 Vision=12
 
@@ -78,7 +78,7 @@ Melee
 
 Speed=Infinity
 
-Attack=15000
+Attack=4000
 
 Automatically Does Normal Damage
 
