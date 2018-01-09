@@ -21,7 +21,7 @@ Nick Is SyncChecks Real Name.
 —Theme Is Nuclear Fusion Redux
 
 
-© & ™ Swift/Stormus Games 2018
+© & ™ 2018 Swift/Stormus Games
 
 
 By:SyncCheck
