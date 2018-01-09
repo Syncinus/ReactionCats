@@ -361,11 +361,9 @@ Cats Don’t Get Deleted When Your Resurrect, Also, You Can’t
 Pick The Same Resurrection Cat Twice. The Ultimate Posts
 In The Cat Post Folder In Game Mechanics Are Really Powerful,
 To Get The Normal Ultimate Post, Resurrect When You Own A Cat In Infinity
-Or Vortex Rarity, To Get The TRUE Ultimate Post, Resurrect With A Max Level\
+Or Vortex Rarity, To Get The TRUE Ultimate Post, Resurrect With A Max Level.
 Void Cat, The TRUE Ultimate Post Is Better Than The Normal Ultimate Post,
-Each Ultimate Post Has 2 Modules That Are The Only Ones It Can Equip,
-You Can Get On Of These By Resurrecting And Owning One Of The Posts
-To Get That Posts Modules.
+The Ultimate Posts Are Not Modular, This Might Be Changed Though.
 
 Items:
 ======================
