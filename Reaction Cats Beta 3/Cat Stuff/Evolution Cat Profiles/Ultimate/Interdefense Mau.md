@@ -28,7 +28,7 @@ Ability=Defensive Capabilities:
 
 Mau Can Reduce The Damage Of 
 
-An Attack By 10, This Has A 5 Turn Recharge
+An Attack By 25%, This Has A 4 Turn Recharge
 
 Attack=Overpowering Claws
 
