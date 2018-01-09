@@ -8,13 +8,13 @@ Nick Is SyncChecks Real Name.
 
 —Special Thanks To Zach
 
-—Version Designation:1.1.0
+—Version Designation:2.0 In Development
 
-—Version Codename:"Recreation"
+—Version Codename:"Reborn"
 
 —Now With More Customization
 
-—The Update Is Named "The Fat Update"
+—Insane Amounts Of Stuff
 
 —Jaspers Very Fat
 
