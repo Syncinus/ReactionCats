@@ -12,9 +12,9 @@ HP=1695
 
 Speed=20
 
-Attack=130
+Attack=230
 
-Defence=170
+Defence=270
 
 Ability=Supercharged Catnip
 
