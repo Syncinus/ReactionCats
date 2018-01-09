@@ -26,19 +26,21 @@ Whenever Samantha Is Done Recharging, Her Attack Speed
 
 Is Set To 1D3 + 1.
 
-Ability=Supercharge:
+Ability=Awesome:
 
-Samantha Can Destroy Terrain At The Rate
+When Took Down, Samantha Can Be Reduced
 
-Of 1 Per Turn.
+To 1 HP Instead, This Can Only Be Used
+
+Once Per Game.
 
 Attack=Strong Claws
 
 Melee
 
-+6 Attack
++7 Attack
 
--6 Enemy Defense When
+-7 Enemy Defense When
 
 Using Attack Against Enemy
 
@@ -46,9 +48,9 @@ Attack=Hairball
 
 1M Range
 
-+7 Attack
++8 Attack
 
--7 Enemy Defense When
+-8 Enemy Defense When
 
 Using Attack Against Enemy
 
