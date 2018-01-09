@@ -4,7 +4,7 @@ HP=50000
 
 Size=2X2
 
-Module Capacity=3, Modules Can Only Be Ultimate Modules
+Module Capacity=6
 
 Tier=Ultimate
 
