@@ -12,13 +12,13 @@ HP=1770
 
 Speed=6
 
-Attack=130
+Attack=230
 
 Stamina=4
 
 Jump=1
 
-Defence=170
+Defence=270
 
 Ability=Penetration:
 
