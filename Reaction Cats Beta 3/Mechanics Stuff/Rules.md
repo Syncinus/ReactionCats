@@ -203,8 +203,8 @@ Vortex: 150
 Void: 200
 Also, These Cats Have More Than 2 Starting
 Abilitys On Them, To Go Past Extreme
-Rarity, However, You MUST Have Max Level In
-Your Type.
+Rarity, However, The Cat Must Have
+Max Level In Their Type.
 
 Power Trees:
 ======================
@@ -363,7 +363,7 @@ In The Cat Post Folder In Game Mechanics Are Really Powerful,
 To Get The Normal Ultimate Post, Resurrect When You Own A Cat In Infinity
 Or Vortex Rarity, To Get The TRUE Ultimate Post, Resurrect With A Max Level.
 Void Cat, The TRUE Ultimate Post Is Better Than The Normal Ultimate Post,
-The Ultimate Posts Are Not Modular, This Might Be Changed Though.
+The Ultimate Posts Are Not That Modular.
 
 Items:
 ======================
