@@ -202,7 +202,9 @@ Infinity: 125
 Vortex: 150
 Void: 200
 Also, These Cats Have More Than 2 Starting
-Abilitys On Them.
+Abilitys On Them, To Go Past Extreme
+Rarity, However, You MUST Have Max Level In
+Your Type.
 
 Power Trees:
 ======================
@@ -348,15 +350,22 @@ Here Are The Dice Roll Effects:
 19-20: 200% Damage
 21+: 300% Damage
 
-Resurrect:
+Resurrection, And Ultimate Posts:
 ======================
 This Is A Big Mechanic, Once You Have A Level 200 Extreme Cat, 
 You Can Resurrect, By Doing This
 You Delete All Your Cats And Reset Your Player
 Level To 0, However, You Gain 1 Resurrection Cat
-Of Your Choice, You Can Resurrect Up To 11 Times, Resurrection
+Of Your Choice, You Can Resurrect Up To 13 Times, Resurrection
 Cats Don’t Get Deleted When Your Resurrect, Also, You Can’t
-Pick The Same Resurrection Cat Twice.
+Pick The Same Resurrection Cat Twice. The Ultimate Posts
+In The Cat Post Folder In Game Mechanics Are Really Powerful,
+To Get The Normal Ultimate Post, Resurrect When You Own A Cat In Infinity
+Or Vortex Rarity, To Get The TRUE Ultimate Post, Resurrect With A Max Level\
+Void Cat, The TRUE Ultimate Post Is Better Than The Normal Ultimate Post,
+Each Ultimate Post Has 2 Modules That Are The Only Ones It Can Equip,
+You Can Get On Of These By Resurrecting And Owning One Of The Posts
+To Get That Posts Modules.
 
 Items:
 ======================
