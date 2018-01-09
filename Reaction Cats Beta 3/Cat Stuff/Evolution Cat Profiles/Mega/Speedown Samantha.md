@@ -1,4 +1,4 @@
-Quick Samantha:
+Speedown Samantha:
 
 Rarity=Mega
 
