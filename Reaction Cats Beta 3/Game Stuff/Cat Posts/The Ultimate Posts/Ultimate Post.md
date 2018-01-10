@@ -36,17 +36,19 @@ Main Effect=Ultimate:
 
 1 (Initial). Every Battle, The Ultimate Post Generates #25 CatBux And #25 Of The Current
 
-Event Currency, If Their Is No Event Then It Generates #25 Extra CatBux.
+  Event Currency, If Their Is No Event Then It Generates #25 Extra CatBux.
 
 2. Every 1 Victory Point That You Get Decreases One Enemy Cat Of Your Choices
 
-HP By 1/10th Of Their Max HP, You Can Not Take Them Down This Way.
+   HP By 1/10th Of Their Max HP, You Can Not Take Them Down This Way, If They Are
+   
+   Going To Be Took Down They Are Reduced To 5 HP Instead.
 
 3. Every Take Down You Get Increases The CatBux Generation Multiplier By X4
 
 4. In A Team Battle At The End, Split The Team Ranks Into 2, Rounded Up, If You Are
 
-In The Higher Half, Then Increase The CatBux Generation By X6
+   In The Higher Half, Then Increase The CatBux Generation By X6
 
 5. Every Time That You Win 4 Battles, The Post Lets You Level Up A Cat 1D20 Levels.
 
