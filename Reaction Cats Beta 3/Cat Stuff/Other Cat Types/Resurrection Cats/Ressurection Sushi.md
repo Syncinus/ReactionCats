@@ -2,6 +2,10 @@ Ressurection Sushi:
 
 Rarity=Resurrection
 
+Attack Speed=1
+
+Recharge=1
+
 Vision=11
 
 HP=45020
@@ -18,9 +22,9 @@ Defence=4400
 
 Ability=Extra Buffed Cat:
 
-Every 5 Turns, Sushi Increases All Stats Except
+Every 5 Turns, Sushi Can Increases All Stats Except
 
-HP By 25. She Increases Speed By Only 10 However.
+HP By 150. She Increases Speed By Only 10 However.
 
 Ability=Super Ultra:
 
@@ -37,6 +41,14 @@ Cat, She Has +50 On All Stats
 Except HP And +5 On Speed
 
 Against That Cat.
+
+Ressurection Ability=Supersonic Strikes:
+
+Sushi Can Do 2 Attacks On Her Active Action Without
+
+Losing Any Attacks From Attack Speed, She Can
+
+Not Do A Combo Though, 3 Turn Cooldown.
 
 Attack=Claws
 
