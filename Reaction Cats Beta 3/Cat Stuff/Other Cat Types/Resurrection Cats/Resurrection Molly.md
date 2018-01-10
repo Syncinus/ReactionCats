@@ -1,6 +1,10 @@
 Resurrection Molly:
 
-Rarity=Ressurection
+Rarity=Resurrection
+
+Attack Speed=2
+
+Recharge=1
 
 Vision=10
 
@@ -8,17 +12,31 @@ HP=45010
 
 Speed=15
 
+Stamina=6
+
+Jump=2
+
 Attack=4300
 
 Defence=4700
 
 Ability=Controller Of The House:
 
-Molly Can Select A 6x6 Hex Area, If An Enemy
+Molly Can Select A 8x8 Hex Area, If An Enemy
 
 Cat Enters That Hex Space, They Take 100 Damage
 
-Every Turn Until They Leave
+Every Turn Until They Leave.
+
+Resurrection Ability=Mobile:
+
+Molly Can Move Her Controller Field
+
+To Her Current Position, The Center Of
+
+The Field Is At Mollys Current Position,
+
+5 Turn Cooldown.
 
 Attack=Hiss
 
@@ -28,7 +46,7 @@ Attack=Hiss
 
 -11 Enemy Defense When Hit
 
-2S Cooldown
+2T Cooldown
 
 Attack=Claws
 
