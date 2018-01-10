@@ -46,7 +46,7 @@ HP By 1/8th Of Their Max HP, You Can Not Take Them Down This Way.
 
 4. In A Team Battle At The End, Split The Team Ranks Into 2, Rounded Up, If You Are
 
-In The Higher Half, Then Increase The CatBux Generation By X10
+   In The Higher Half, Then Increase The CatBux Generation By X10
 
 5. Every Time That You Win 4 Battles, The Post Lets You Level Up A Cat 1D20 Levels.
 
