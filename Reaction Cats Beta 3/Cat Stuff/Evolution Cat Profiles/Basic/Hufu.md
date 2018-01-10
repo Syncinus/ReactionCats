@@ -50,7 +50,7 @@ Attack=Big Claws
 
 Melee
 
-+2 Attack
++1 Attack
 
 -1 Enemy Defense When
 
@@ -62,7 +62,7 @@ Attack=Fart
 
 +2 Attack
 
--2 Enemy Defense When
+-1 Enemy Defense When
 
 Using Attack Against Enemy
 
