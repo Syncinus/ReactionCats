@@ -1,12 +1,20 @@
 Resurrection Moe:
 
-Rarity=Ressurection
+Rarity=Resurrection
+
+Attack Speed=3
+
+Recharge=4
 
 Vision=10
 
 HP=45010
 
 Speed=20
+
+Stamina=10
+
+Jump=4
 
 Attack=4675
 
@@ -22,9 +30,17 @@ And It Lasts 1 Turn
 
 When Activated Moe May Increase 
 
-His Speed By +20, And His Attack Increases
+His Speed By +55, And 
 
-By 10.
+His Attack Increases By 10.
+
+Resurrection Ability=Overlord:
+
+Moe Can Teleport To Any Location
+
+Within Range 5 Using His Passive
+
+Action, No Recharge Required.
 
 Attack=Moe Claws
 
