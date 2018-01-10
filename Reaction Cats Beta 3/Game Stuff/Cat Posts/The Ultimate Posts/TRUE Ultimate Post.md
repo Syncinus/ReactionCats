@@ -38,9 +38,11 @@ Main Effect=TRUE Ultimate:
 
 Event Currency, If Their Is No Event Then It Generates #50 Extra CatBux.
 
-2. Every 1 Victory Point That You Get Decreases One Enemy Cat Of Your Choices
+2. Every 1 Victory Point That You Get Decreases One Enemy Cat Of Your Choice's
 
-HP By 1/8th Of Their Max HP, You Can Not Take Them Down This Way.
+   HP By 1/8th Of Their Max HP, You Can Not Take Them Down This Way, If They Are
+   
+   Going To Be Took Down They Are Reduced To 1 HP Instead
 
 3. Every Take Down You Get Increases The CatBux Generation Multiplier By X8
 
