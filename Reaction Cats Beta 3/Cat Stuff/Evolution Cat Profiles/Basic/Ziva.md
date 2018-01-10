@@ -12,8 +12,6 @@ Stamina=10
 
 Jump=3
 
-Spotting=7
-
 HP=110
 
 Speed=8
