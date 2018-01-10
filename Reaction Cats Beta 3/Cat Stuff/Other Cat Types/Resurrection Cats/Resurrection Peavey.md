@@ -2,11 +2,19 @@ Resurrection Peavey:
 
 Rarity=Ressurection
 
+Attack Speed=2
+
+Recharge=3
+
 Vision=10
 
-HP=45011
+HP=45015
 
 Speed=6
+
+Stamina=5
+
+Jump=1
 
 Attack=4650
 
@@ -18,17 +26,23 @@ Every Game, Peavy May
 
 Select 1 Ability From
 
-A Cat Of Extreme Or Lower
+A Cat Of Resurrection Or Lower
 
-Rarity To Use In This Ones Place
+Rarity To Use In This Ones Place.
 
 Ability=Ultimate Shield:
 
-Peavy May Take -50
+Peavy May Take 70%
 
 Damage For 1 Turn,
 
 2 Turn Cooldown
+
+Resurrection Ability=Wise Initiative:
+
+Cats Can't Attack Peavey Until
+
+He Attacks Them First.
 
 Attack=Claws:
 
