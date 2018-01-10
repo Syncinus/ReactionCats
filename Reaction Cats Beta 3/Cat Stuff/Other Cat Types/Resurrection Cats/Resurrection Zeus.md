@@ -2,11 +2,19 @@ Resurrection Zeus:
 
 Rarity=Ressurection
 
+Attack Speed=2
+
+Recharge=2
+
 Vision=10
 
 HP=45010 
 
 Speed=12
+
+Stamina=8
+
+Jump=3
 
 Attack=4500
 
@@ -20,7 +28,13 @@ Ability From A Cat 7 Times Per Game.
 
 Ability=Megalonic:
 
-Zeus Takes 3 Quarters Damage.
+Zeus Takes 3 Quarters Damage
+
+Resurrection Ability=Burrow:
+
+Zeus Can Dig Under Terrain At The
+
+Rate Of 1 Per Turn.
 
 Attack=Sharp Claws
 
@@ -34,7 +48,7 @@ Using Attack Against Enemy
 
 Attack=Howl
 
-1.5M Range
+2M Range
 
 Cats Can Not Use Ranged Attacks
 
