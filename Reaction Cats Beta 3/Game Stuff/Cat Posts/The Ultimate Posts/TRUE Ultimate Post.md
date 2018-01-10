@@ -18,13 +18,19 @@ Cats Stats Are Buffed By 50%
 
 At The Start Of The Match.
 
-Return Effect=Ultra Heal:
+Return Effect=TRUE Energy Charge:
 
-Cats That Return To The Post
+Every Turn That A Cat Spends Here, They
 
-Get Healed 50% Of Their HP Every
+Gain 1 Energy Point, An Energy Point Can Be Used
 
-Turn They Stay Their.
+As An Active Action, It Knocks All The Enemys Adjacent
+
+To You Your Decision Of 1-2 Hexes Back And Stuns All Enemy Cats For 1 Turn 
+
+Whithin Range 2 Of A Specific Direction Of Your Cat, If A Cat Is Stunned
+
+They Can't Be Stunned Again For 3 Turns.
 
 End Effect=Overloaded Catbux Charge:
 
