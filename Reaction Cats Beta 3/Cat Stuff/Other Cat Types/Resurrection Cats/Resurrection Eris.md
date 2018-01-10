@@ -2,11 +2,19 @@ Resurrection Eris:
 
 Rarity=Ressurection
 
+Attack Speed=1
+
+Recharge=2
+
 Vision=10
 
 HP=45012
 
 Speed=5
+
+Stamina=4
+
+Jump=1
 
 Attack=4350
 
@@ -26,9 +34,19 @@ Every Game, Eris May
 
 Select 1 Ability From Cat Of
 
-Extreme Or Lower Rarity To
+Resurrection Or Lower Rarity To
 
 Replace This One For The Match.
+
+Resurrection Ability=ERW!:
+
+Eris Can Use A Free Action
+
+To Preform ERW!, This Ability
+
+Knocks The Enemy Cat Back Eris's Choice
+
+Of 1-3 Hexes, 2 Turn Recharge.
 
 Attack=Claws
 
