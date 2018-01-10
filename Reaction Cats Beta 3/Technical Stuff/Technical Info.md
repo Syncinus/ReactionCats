@@ -8,13 +8,13 @@ Nick Is SyncChecks Real Name.
 
 —Special Thanks To Zach
 
-—Version Designation:2.0 In Development
+—Version Designation:1.1
 
 —Version Codename:"Reborn"
 
 —Now With More Customization
 
-—Insane Amounts Of Stuff
+—More Mechanics!
 
 —Jaspers Very Fat
 
