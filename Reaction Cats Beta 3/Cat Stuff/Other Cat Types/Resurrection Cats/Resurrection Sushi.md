@@ -1,4 +1,4 @@
-Ressurection Sushi:
+Resurrection Sushi:
 
 Rarity=Resurrection
 
