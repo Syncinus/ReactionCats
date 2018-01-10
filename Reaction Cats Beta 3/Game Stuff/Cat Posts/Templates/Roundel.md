@@ -4,6 +4,10 @@ HP=50
 
 Module Capacity=3
 
+Size=1X1
+
+Tier=Common
+
 CatBux Cost=#10
 
 Effects:
