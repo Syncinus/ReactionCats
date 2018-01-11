@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=10
 
-HP=2570
+HP=2170
 
 Stamina=7
 
