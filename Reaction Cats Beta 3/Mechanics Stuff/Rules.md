@@ -21,16 +21,16 @@ You Start With 1 Basic Cat, When You Go Higher Than A Specific Level
 Then Your Cat Evolves To Itself In The Next Rarity.
 The Max Levels Before Evolution For Cats:
 Basic: 5
-Uncommon: 9
-Rare: 5
+Uncommon: 10
+Rare: 20
 Mega: 10
-Ultimate: 15
-Epic: 20
+Epic: 15
+Ultimate: 20
 Legendary: 30
 Mythic: 35
 Insane: 45
 Supreme: 70
-Extreme: 100
+Extreme: 140
 
 Attack Combos:
 ======================
