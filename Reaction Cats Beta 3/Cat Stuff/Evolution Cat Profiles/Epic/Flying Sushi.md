@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=11
 
-HP=1140
+HP=2140
 
 Stamina=6
 
@@ -16,9 +16,9 @@ Jump=2
 
 Speed=7
 
-Attack=175
+Attack=275
 
-Defence=175
+Defence=275
 
 Ability=Flight:
 
