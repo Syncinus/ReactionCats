@@ -8,17 +8,17 @@ Rarity=Epic
 
 Vision=10
 
-HP=2750
+HP=1150
 
 Speed=15
 
-Attack=350
+Attack=130
 
 Stamina=7
 
 Jump=2
 
-Defence=450
+Defence=170
 
 Ability=Blade Speed:
 
