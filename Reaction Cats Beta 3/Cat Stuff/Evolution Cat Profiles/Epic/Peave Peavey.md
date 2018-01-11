@@ -16,9 +16,9 @@ Stamina=5
 
 Jump=1
 
-Attack=360
+Attack=460
 
-Defence=240
+Defence=340
 
 Ability=Terra:
 
