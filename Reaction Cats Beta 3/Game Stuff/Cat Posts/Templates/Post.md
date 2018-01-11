@@ -32,5 +32,7 @@ Attack=Blaster
 
 10 Vision
 
+Speed 6
+
 1 Knockback
 
