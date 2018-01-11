@@ -16,9 +16,9 @@ Jump=3
 
 Speed=13
 
-Attack=270
+Attack=470
 
-Defence=230
+Defence=330
 
 Ability=Crazy:
 
