@@ -8,17 +8,17 @@ Recharge=1
 
 Vision=10
 
-HP=1760
+HP=2765
 
 Stamina=7
 
 Speed=10
 
-Attack=275
+Attack=450
 
 Jump=2
 
-Defence=275
+Defence=450
 
 Ability=Ultelian:
 
