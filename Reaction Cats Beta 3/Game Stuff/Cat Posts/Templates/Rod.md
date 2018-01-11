@@ -2,6 +2,8 @@ Rod:
 
 HP=500
 
+Cats=2
+
 Module Capacity=5
 
 Size=1X2
