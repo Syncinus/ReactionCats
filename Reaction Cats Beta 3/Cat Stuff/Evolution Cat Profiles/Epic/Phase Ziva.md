@@ -8,17 +8,17 @@ Recharge=1
 
 Vision=10
 
-HP=1160
+HP=2160
 
 Speed=10
 
-Attack=200
+Attack=675
 
 Stamina=10
 
 Jump=3
 
-Defence=100
+Defence=125
 
 Ability=Fast Blast:
 
