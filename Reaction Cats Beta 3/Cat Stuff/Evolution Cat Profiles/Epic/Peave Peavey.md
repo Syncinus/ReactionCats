@@ -8,7 +8,7 @@ Recharge=3
 
 Vision=7
 
-HP=2560
+HP=1160
 
 Speed=6
 
@@ -16,9 +16,9 @@ Stamina=5
 
 Jump=1
 
-Attack=460
+Attack=160
 
-Defence=340
+Defence=140
 
 Ability=Terra:
 
