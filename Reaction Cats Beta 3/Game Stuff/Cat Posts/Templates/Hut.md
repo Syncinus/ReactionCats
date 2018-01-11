@@ -2,6 +2,8 @@ Hut:
 
 HP=100
 
+Cats=1
+
 Module Capacity=4
 
 Size=1X1
