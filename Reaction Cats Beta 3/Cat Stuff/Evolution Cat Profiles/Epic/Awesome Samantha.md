@@ -8,7 +8,7 @@ Recharge=2
 
 Vision=13
 
-HP=1150
+HP=2150
 
 Stamina=4
 
@@ -16,9 +16,9 @@ Jump=3
 
 Speed=13
 
-Attack=170
+Attack=270
 
-Defence=130
+Defence=230
 
 Ability=Crazy:
 
