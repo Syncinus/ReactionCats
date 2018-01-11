@@ -114,7 +114,7 @@ Now I Explain Attacks:
 ======================
 Attacking Is A Complicated Process, But I Will Explain It:
 First, You And Your Enemy Roll Your D6's, Then, Multiply
-The Results By Half Of Your Speed Value, Whoever Has The Higher
+The Results By Your Speed Value, Whoever Has The Higher
 Value Wins, So If You Have The Higher Value, You Hit, If They Have The
 Higher Value, They Dodge, Anyway, Once You've Done That, Select One Of
 Your Attacks, Then, Modify Your Attack Value And The Enemy's Defense
