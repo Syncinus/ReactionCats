@@ -1,4 +1,4 @@
-Advaned Samantha:
+Advanced Samantha:
 
 Rarity=Uncommon
 
