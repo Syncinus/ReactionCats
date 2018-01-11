@@ -8,7 +8,7 @@ Recharge=2
 
 Vision=7
 
-HP=1170
+HP=2170
 
 Speed=6
 
@@ -16,9 +16,9 @@ Stamina=4
 
 Jump=1
 
-Attack=160
+Attack=260
 
-Defence=240
+Defence=340
 
 Ability=Penetration:
 
