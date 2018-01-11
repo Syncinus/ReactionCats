@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=10
 
-HP=1250
+HP=2250
 
 Speed=10
 
@@ -18,7 +18,7 @@ Stamina=5
 
 Jump=1
 
-Defence=250
+Defence=450
 
 Ability=Terrain SMASH!:
 
