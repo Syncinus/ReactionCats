@@ -2,6 +2,8 @@ Ultimate Post:
 
 HP=50000
 
+Cats=2
+
 Size=2X2
 
 Module Capacity=3
