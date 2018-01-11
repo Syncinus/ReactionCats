@@ -45,6 +45,12 @@ Also, Every 2 Extra Attacks You Do Beyond You Max Attacks Increases
 Your Recharge Time By One Turn, You Can't Switch Targets, It Must All
 Be Against One Cat.
 
+Supported Attacks:
+======================
+In A Team Battle, If You And Someone On Your Team Are Both
+Next To An Enemy Cat And One Of You Does An Attack, Increase
+Your Speed When Trying To Hit By 1.
+
 Rarity Order:
 ======================
 Basic
