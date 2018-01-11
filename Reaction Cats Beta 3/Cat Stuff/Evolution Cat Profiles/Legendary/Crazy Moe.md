@@ -18,7 +18,7 @@ Jump=4
 
 Attack=600
 
-Defence=400
+Defence=300
 
 Ability=Crazy Catnip
 
