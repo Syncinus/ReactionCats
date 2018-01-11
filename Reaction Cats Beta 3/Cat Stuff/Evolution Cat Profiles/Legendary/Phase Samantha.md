@@ -16,7 +16,7 @@ Jump=3
 
 Speed=13
 
-Attack=425
+Attack=525
 
 Defence=375
 
