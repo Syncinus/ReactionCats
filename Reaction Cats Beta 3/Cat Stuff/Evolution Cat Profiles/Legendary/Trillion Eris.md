@@ -12,13 +12,13 @@ HP=3600
 
 Speed=6
 
-Attack=325
+Attack=350
 
 Stamina=4
 
 Jump=1
 
-Defence=475
+Defence=550
 
 Ability=Trillion:
 
