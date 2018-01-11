@@ -8,17 +8,17 @@ Recharge=1
 
 Vision=10
 
-HP=1850
+HP=2120
 
 Speed=10
 
-Attack=205
+Attack=125
 
 Stamina=5
 
 Jump=1
 
-Defence=295
+Defence=675
 
 Ability=Fatness Intimidation:
 
