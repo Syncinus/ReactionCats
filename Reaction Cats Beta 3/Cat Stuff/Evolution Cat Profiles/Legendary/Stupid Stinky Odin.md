@@ -16,9 +16,9 @@ Stamina=7
 
 Jump=2
 
-Attack=200
+Attack=250
 
-Defence=600
+Defence=650
 
 Ability=Stupid Stinky:
 
