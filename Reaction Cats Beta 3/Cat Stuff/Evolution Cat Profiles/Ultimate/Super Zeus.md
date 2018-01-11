@@ -8,7 +8,7 @@ Recharge=2
 
 Vision=10
 
-HP=2015
+HP=2060
 
 Stamina=8
 
@@ -16,9 +16,9 @@ Speed=15
 
 Jump=3
 
-Attack=300
+Attack=400
 
-Defence=300
+Defence=400
 
 Ability=Head Sleep:
 
