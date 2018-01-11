@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=5
 
-HP=2600
+HP=2170
 
 Speed=10
 
@@ -16,9 +16,9 @@ Stamina=7
 
 Jump=2
 
-Attack=250
+Attack=150
 
-Defence=350
+Defence=450
 
 Ability=Stinky:
 
