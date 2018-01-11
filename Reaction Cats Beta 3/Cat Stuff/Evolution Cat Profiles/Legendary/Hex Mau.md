@@ -12,13 +12,13 @@ HP=3620
 
 Speed=15
 
-Attack=350
+Attack=425
 
 Stamina=7
 
 Jump=2
 
-Defence=450
+Defence=475
 
 Ability=Speed Charge:
 
