@@ -8,13 +8,13 @@ Recharge=4
 
 Vision=10
 
-HP=1695
+HP=2720
 
 Speed=20
 
-Attack=230
+Attack=630
 
-Defence=270
+Defence=170
 
 Ability=Supercharged Catnip
 
