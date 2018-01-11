@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=10
 
-HP=2550
+HP=1150
 
 Speed=15
 
@@ -16,9 +16,9 @@ Stamina=6
 
 Jump=2
 
-Attack=250
+Attack=125
 
-Defence=350
+Defence=175
 
 Ability=Plex Queen Of The House:
 
