@@ -42,7 +42,7 @@ Except HP And +5 On Speed
 
 Against That Cat.
 
-Ressurection Ability=Supersonic Strikes:
+Resurrection Ability=Supersonic Strikes:
 
 Sushi Can Do 2 Attacks On Her Active Action Without
 
