@@ -2,6 +2,8 @@ Roundel:
 
 HP=50
 
+Cats=1
+
 Module Capacity=3
 
 Size=1X1
