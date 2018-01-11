@@ -18,7 +18,7 @@ Stamina=5
 
 Jump=1
 
-Defence=650
+Defence=250
 
 Ability=Terrain SMASH!:
 
