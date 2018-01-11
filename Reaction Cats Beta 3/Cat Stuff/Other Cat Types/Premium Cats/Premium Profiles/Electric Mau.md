@@ -8,7 +8,7 @@ Attack Speed=2
 
 Recharge=2
 
-CatBux Cost=75000
+CatBux Cost=#75000
 
 Vision=10
 
