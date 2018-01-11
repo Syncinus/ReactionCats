@@ -14,4 +14,6 @@ Their Stats Are 15% Higher Than Normal.
 
 Every #100 CatBux Spent To Improve Makes
 
-Device Buff Stats By 2% More.
+Device Buff Stats By 2% More, Improvment Caps
+
+At 50%.
