@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=10
 
-HP=2035
+HP=2050
 
 Stamina=6
 
@@ -16,9 +16,9 @@ Jump=3
 
 Speed=6
 
-Attack=180
+Attack=300
 
-Defence=320
+Defence=500
 
 Ability=Jump Attack:
 
