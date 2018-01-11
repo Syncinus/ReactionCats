@@ -8,11 +8,11 @@ Recharge=1
 
 Vision=10
 
-HP=2560
+HP=1160
 
 Speed=10
 
-Attack=500
+Attack=200
 
 Stamina=10
 
