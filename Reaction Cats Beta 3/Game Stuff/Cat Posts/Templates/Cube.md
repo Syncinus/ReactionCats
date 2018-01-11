@@ -30,6 +30,8 @@ Attack=Rapid Blaster
 
 7 Vision
 
+Speed 7
+
 Can Shoot 3 Times 
 
 Per Turn.
