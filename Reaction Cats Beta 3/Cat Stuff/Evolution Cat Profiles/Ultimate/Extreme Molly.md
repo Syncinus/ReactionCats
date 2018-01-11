@@ -8,7 +8,7 @@ Recharge=1
 
 Vision=10
 
-HP=1750
+HP=2065
 
 Speed=15
 
@@ -18,7 +18,7 @@ Jump=2
 
 Attack=220
 
-Defence=280
+Defence=580
 
 Ability=Improved Queen Of The House:
 
