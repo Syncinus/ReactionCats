@@ -8,7 +8,7 @@ Nick Is SyncChecks Real Name.
 
 —Special Thanks To Zach
 
-—Version Designation:1.1
+—Version Designation:1.1 Beta
 
 —Version Codename:"Reborn"
 
