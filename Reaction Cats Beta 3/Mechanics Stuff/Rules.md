@@ -61,9 +61,9 @@ Rare
 
 Mega
 
-Ultimate
-
 Epic
+
+Ultimate
 
 Legendary
 
@@ -212,6 +212,13 @@ Abilitys On Them, To Go Past Extreme
 Rarity, However, The Cat Must Have
 Max Level In Their Type.
 
+Flying:
+======================
+You Might Be Wondering How Flying Works, Well, Actually,
+It's Pretty Simple, Basically, When Flying, You Stay On Your Current
+Terrain Level, And Move At Half Your Speed Value, If You Lose More Than
+1 Quarter Of Your Stamina, You Automatically Stop Flying.
+
 Power Trees:
 ======================
 In The Game Stuff Folder, Their Are Things Called Power
@@ -226,7 +233,7 @@ Effects:
 Sometimes, A Cat May Be Effected By An Effect,
 These Are Basically Wierd Conditions That May Happened
 To A Cat, The Effect Lasts As Many
-Turns As The Thing That Applyed 
+Turns As The Thing That Applied To You.
 Them Says It Would Here Are The Current 3:
 1. Scared: The Cat Can't Move Towards, Or Attack,
 The Thing That Is Scaring, Them, And If The Thing
@@ -336,11 +343,6 @@ If You Want To Apply The Effect For The Time It Lasts,
 Note That Ability’s Like Zeus’s Head Sleep Ability Are Only Useable
 At Melee Range.
 
-Legacy Cats:
-======================
-These Are Old Cats From Another Game That I Made That Was Abandoned (Cat Wars),
-You Can Win Them From Tournaments.
-
 Vision:
 ======================
 Vision Affects How Accurate Your Cat Is At Attacking,
@@ -358,7 +360,7 @@ Here Are The Dice Roll Effects:
 
 Resurrection, And Ultimate Posts:
 ======================
-This Is A Big Mechanic, Once You Have A Level 200 Extreme Cat, 
+This Is A Big Mechanic, Once You Have A Level 140 Extreme Cat, 
 You Can Resurrect, By Doing This
 You Delete All Your Cats And Reset Your Player
 Level To 0, However, You Gain 1 Resurrection Cat
@@ -422,7 +424,8 @@ Negotiation
 
 Survival
 
-You Can Also Make Custom Skills, For Custom Things.
+You Can Also Make Custom Skills, For Custom Things,
+And For Your RPG Games That You Have Around.
 
 Leauges:
 ======================
@@ -551,9 +554,9 @@ Your Attack Has A 1 Turn Cooldown,
 Also Note That You Can Do 2 Other Actions,
 1. Active Action=Interact:
 
-Allows Cat To Interact With Object
+Allows Cat To Interact With Object,
 
-Like Door If The Object Can Be Interacted With.
+Usually Used In RPG Mode.
 
 2. Passive Action=Skill Check:
 
