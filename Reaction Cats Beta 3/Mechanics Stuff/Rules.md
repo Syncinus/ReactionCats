@@ -620,6 +620,3 @@ Thats It. If This Didn’t Cover Everything, Then Tell Me
 Through The Issues Section Of The Game Itself, I Will Fix The
 Rules And Consider Adding What You Need.
 Please Be A Fair Player And Don't Cheat --Nick
-
-Attack Formula = (att * att) / (att + (def x 2.5)) x3 --Not Used, But Here Just In-Case
-
