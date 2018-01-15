@@ -2,4 +2,4 @@ Hyper Armor:
 
 Increase You Cats
 
-HP By 100
+HP By 35%
