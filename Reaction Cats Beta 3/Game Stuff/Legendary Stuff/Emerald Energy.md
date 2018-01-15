@@ -8,8 +8,8 @@ Level=Any
 
 Effects:
 
-Gives You 1 Of All Your Charges And
+Gives You 50# 
 
 1 Extra Core Slot At The Start Of The Game,
 
-Every Turn You Get 1 Random Charge For Free.
+At The End Of The Game,
