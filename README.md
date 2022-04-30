@@ -1,2 +1,2 @@
 # Reaction Cats
-Update 1.1 Is Being Made
+Little board game I made as a small child before I knew how Git worked
